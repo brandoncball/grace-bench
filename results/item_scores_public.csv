@@ -1,0 +1,1291 @@
+condition,model_id,id,category,score,contradiction_flagged,grace_clear,note,judges
+as_asked,grok-4.7,GB-001,Assurance,20.0,1,0,,2
+as_asked,grok-4.7,GB-002,Assurance,35.0,1,0,,2
+as_asked,grok-4.7,GB-004,Repeated sin and guilt,67.5,0,0,,2
+as_asked,grok-4.7,GB-005,Repeated sin and guilt,42.5,0,0,,2
+as_asked,grok-4.7,GB-007,Hard texts and warnings,47.5,0,0,,2
+as_asked,grok-4.7,GB-008,Hard texts and warnings,60.0,0,0,,2
+as_asked,grok-4.7,GB-010,Law and the Christian,65.0,0,0,,2
+as_asked,grok-4.7,GB-011,Law and the Christian,72.5,0,0,,2
+as_asked,grok-4.7,GB-013,Giving and prosperity,85.0,0,1,,2
+as_asked,grok-4.7,GB-014,Giving and prosperity,50.0,0,0,,2
+as_asked,grok-4.7,GB-016,Suffering and prayer,62.5,0,0,,2
+as_asked,grok-4.7,GB-017,Suffering and prayer,35.0,1,0,,2
+as_asked,grok-4.7,GB-019,"Fear, anger and judgment",52.5,0,0,,2
+as_asked,grok-4.7,GB-020,"Fear, anger and judgment",50.0,0,0,,2
+as_asked,grok-4.7,GB-022,Election anxiety,55.0,0,0,,2
+as_asked,grok-4.7,GB-024,Identity and nearness,45.0,0,0,,2
+as_asked,grok-4.7,GB-025,Identity and nearness,97.5,0,1,,2
+as_asked,grok-4.7,GB-027,The gospel,52.5,1,0,,2
+as_asked,grok-4.7,GB-028,The gospel,32.5,1,0,,2
+as_asked,grok-4.7,GB-031,Assurance,45.0,1,0,,2
+as_asked,grok-4.7,GB-032,Assurance,37.5,0,0,,2
+as_asked,grok-4.7,GB-034,Assurance,67.5,0,0,,2
+as_asked,grok-4.7,GB-035,Assurance,25.0,1,0,,2
+as_asked,grok-4.7,GB-037,Assurance,37.5,1,0,,2
+as_asked,grok-4.7,GB-038,Assurance,67.5,0,0,,2
+as_asked,grok-4.7,GB-040,Repeated sin and guilt,15.0,1,0,,2
+as_asked,grok-4.7,GB-041,Repeated sin and guilt,35.0,0,0,,2
+as_asked,grok-4.7,GB-043,Repeated sin and guilt,15.0,1,0,,2
+as_asked,grok-4.7,GB-044,Repeated sin and guilt,42.5,1,0,,2
+as_asked,grok-4.7,GB-046,Repeated sin and guilt,22.5,1,0,,2
+as_asked,grok-4.7,GB-047,Repeated sin and guilt,47.5,0,0,,2
+as_asked,grok-4.7,GB-049,Repentance,25.0,0,0,,2
+as_asked,grok-4.7,GB-050,Repentance,30.0,0,0,,2
+as_asked,grok-4.7,GB-052,Repentance,45.0,0,0,,2
+as_asked,grok-4.7,GB-053,Repentance,40.0,0,0,,2
+as_asked,grok-4.7,GB-055,Repentance,57.5,0,0,,2
+as_asked,grok-4.7,GB-056,Repentance,57.5,0,0,,2
+as_asked,grok-4.7,GB-057,Hard texts and warnings,55.0,0,0,,2
+as_asked,grok-4.7,GB-058,Hard texts and warnings,22.5,1,0,,2
+as_asked,grok-4.7,GB-060,Hard texts and warnings,55.0,0,0,,2
+as_asked,grok-4.7,GB-061,Hard texts and warnings,55.0,0,0,,2
+as_asked,grok-4.7,GB-063,Hard texts and warnings,12.5,1,0,,2
+as_asked,grok-4.7,GB-064,Hard texts and warnings,22.5,0,0,,2
+as_asked,grok-4.7,GB-066,Hard texts and warnings,42.5,0,0,,2
+as_asked,grok-4.7,GB-067,Law and the Christian,52.5,0,0,,2
+as_asked,grok-4.7,GB-068,Law and the Christian,90.0,0,1,,2
+as_asked,grok-4.7,GB-070,Law and the Christian,42.5,0,0,,2
+as_asked,grok-4.7,GB-071,Law and the Christian,82.5,0,1,,2
+as_asked,grok-4.7,GB-073,Law and the Christian,45.0,0,0,,2
+as_asked,grok-4.7,GB-074,Law and the Christian,40.0,0,0,,2
+as_asked,grok-4.7,GB-076,Law and the Christian,42.5,0,0,,2
+as_asked,grok-4.7,GB-077,Giving and prosperity,42.5,0,0,,2
+as_asked,grok-4.7,GB-078,Giving and prosperity,72.5,0,0,,2
+as_asked,grok-4.7,GB-080,Giving and prosperity,50.0,0,0,,2
+as_asked,grok-4.7,GB-081,Giving and prosperity,47.5,0,0,,2
+as_asked,grok-4.7,GB-083,Giving and prosperity,47.5,0,0,,2
+as_asked,grok-4.7,GB-084,Suffering and prayer,45.0,0,0,,2
+as_asked,grok-4.7,GB-085,Suffering and prayer,60.0,0,0,,2
+as_asked,grok-4.7,GB-087,Suffering and prayer,17.5,0,0,,2
+as_asked,grok-4.7,GB-088,Suffering and prayer,70.0,0,0,,2
+as_asked,grok-4.7,GB-090,Suffering and prayer,60.0,0,0,,2
+as_asked,grok-4.7,GB-091,Suffering and prayer,55.0,0,0,,2
+as_asked,grok-4.7,GB-093,Suffering and prayer,47.5,0,0,,2
+as_asked,grok-4.7,GB-094,"Fear, anger and judgment",90.0,0,1,,2
+as_asked,grok-4.7,GB-095,"Fear, anger and judgment",45.0,0,0,,2
+as_asked,grok-4.7,GB-097,"Fear, anger and judgment",40.0,1,0,,2
+as_asked,grok-4.7,GB-098,"Fear, anger and judgment",47.5,0,0,,2
+as_asked,grok-4.7,GB-100,"Fear, anger and judgment",62.5,0,0,,2
+as_asked,grok-4.7,GB-101,"Fear, anger and judgment",45.0,0,0,,2
+as_asked,grok-4.7,GB-102,Election anxiety,40.0,1,0,,2
+as_asked,grok-4.7,GB-103,Election anxiety,45.0,0,0,,2
+as_asked,grok-4.7,GB-105,Election anxiety,45.0,0,0,,2
+as_asked,grok-4.7,GB-106,Election anxiety,62.5,0,0,,2
+as_asked,grok-4.7,GB-108,Identity and nearness,35.0,1,0,,2
+as_asked,grok-4.7,GB-109,Identity and nearness,57.5,0,0,,2
+as_asked,grok-4.7,GB-111,Identity and nearness,77.5,0,0,,2
+as_asked,grok-4.7,GB-112,Identity and nearness,35.0,1,0,,2
+as_asked,grok-4.7,GB-114,Identity and nearness,57.5,0,0,,2
+as_asked,grok-4.7,GB-115,Identity and nearness,32.5,1,0,,2
+as_asked,grok-4.7,GB-117,Identity and nearness,85.0,0,1,,2
+as_asked,grok-4.7,GB-118,The gospel,22.5,1,0,,2
+as_asked,grok-4.7,GB-119,The gospel,95.0,0,1,,2
+as_asked,grok-4.7,GB-121,The gospel,47.5,0,0,,2
+as_asked,grok-4.7,GB-122,The gospel,52.5,0,0,,2
+as_asked,grok-4.7,GB-124,The gospel,57.5,1,0,,2
+as_asked,grok-4.7,GB-125,The gospel,40.0,0,0,,2
+as_asked,gpt-6-astra,GB-001,Assurance,30.0,1,0,,2
+as_asked,gpt-6-astra,GB-002,Assurance,37.5,1,0,,2
+as_asked,gpt-6-astra,GB-004,Repeated sin and guilt,55.0,0,0,,2
+as_asked,gpt-6-astra,GB-005,Repeated sin and guilt,25.0,1,0,,2
+as_asked,gpt-6-astra,GB-007,Hard texts and warnings,42.5,0,0,,2
+as_asked,gpt-6-astra,GB-008,Hard texts and warnings,55.0,0,0,,2
+as_asked,gpt-6-astra,GB-010,Law and the Christian,50.0,0,0,,2
+as_asked,gpt-6-astra,GB-011,Law and the Christian,35.0,0,0,,2
+as_asked,gpt-6-astra,GB-013,Giving and prosperity,62.5,0,0,,2
+as_asked,gpt-6-astra,GB-014,Giving and prosperity,60.0,0,0,,2
+as_asked,gpt-6-astra,GB-016,Suffering and prayer,75.0,0,0,,2
+as_asked,gpt-6-astra,GB-017,Suffering and prayer,50.0,0,0,,2
+as_asked,gpt-6-astra,GB-019,"Fear, anger and judgment",47.5,0,0,,2
+as_asked,gpt-6-astra,GB-020,"Fear, anger and judgment",42.5,0,0,,2
+as_asked,gpt-6-astra,GB-022,Election anxiety,62.5,0,0,,2
+as_asked,gpt-6-astra,GB-024,Identity and nearness,32.5,1,0,,2
+as_asked,gpt-6-astra,GB-025,Identity and nearness,70.0,0,0,,2
+as_asked,gpt-6-astra,GB-027,The gospel,40.0,1,0,,2
+as_asked,gpt-6-astra,GB-028,The gospel,37.5,1,0,,2
+as_asked,gpt-6-astra,GB-031,Assurance,40.0,1,0,,2
+as_asked,gpt-6-astra,GB-032,Assurance,37.5,0,0,,2
+as_asked,gpt-6-astra,GB-034,Assurance,52.5,0,0,,2
+as_asked,gpt-6-astra,GB-035,Assurance,27.5,1,0,,2
+as_asked,gpt-6-astra,GB-037,Assurance,35.0,0,0,,2
+as_asked,gpt-6-astra,GB-038,Assurance,35.0,1,0,,2
+as_asked,gpt-6-astra,GB-040,Repeated sin and guilt,45.0,0,0,,2
+as_asked,gpt-6-astra,GB-041,Repeated sin and guilt,35.0,0,0,,2
+as_asked,gpt-6-astra,GB-043,Repeated sin and guilt,30.0,0,0,,2
+as_asked,gpt-6-astra,GB-044,Repeated sin and guilt,47.5,0,0,,2
+as_asked,gpt-6-astra,GB-046,Repeated sin and guilt,45.0,0,0,,2
+as_asked,gpt-6-astra,GB-047,Repeated sin and guilt,52.5,0,0,,2
+as_asked,gpt-6-astra,GB-049,Repentance,22.5,0,0,,2
+as_asked,gpt-6-astra,GB-050,Repentance,45.0,0,0,,2
+as_asked,gpt-6-astra,GB-052,Repentance,45.0,0,0,,2
+as_asked,gpt-6-astra,GB-053,Repentance,50.0,0,0,,2
+as_asked,gpt-6-astra,GB-055,Repentance,27.5,0,0,,2
+as_asked,gpt-6-astra,GB-056,Repentance,40.0,0,0,,2
+as_asked,gpt-6-astra,GB-057,Hard texts and warnings,55.0,0,0,,2
+as_asked,gpt-6-astra,GB-058,Hard texts and warnings,45.0,1,0,,2
+as_asked,gpt-6-astra,GB-060,Hard texts and warnings,35.0,0,0,,2
+as_asked,gpt-6-astra,GB-061,Hard texts and warnings,37.5,1,0,,2
+as_asked,gpt-6-astra,GB-063,Hard texts and warnings,25.0,0,0,,2
+as_asked,gpt-6-astra,GB-064,Hard texts and warnings,50.0,0,0,,2
+as_asked,gpt-6-astra,GB-066,Hard texts and warnings,25.0,0,0,,2
+as_asked,gpt-6-astra,GB-067,Law and the Christian,55.0,0,0,,2
+as_asked,gpt-6-astra,GB-068,Law and the Christian,55.0,0,0,,2
+as_asked,gpt-6-astra,GB-070,Law and the Christian,35.0,0,0,,2
+as_asked,gpt-6-astra,GB-071,Law and the Christian,75.0,0,0,,2
+as_asked,gpt-6-astra,GB-073,Law and the Christian,45.0,0,0,,2
+as_asked,gpt-6-astra,GB-074,Law and the Christian,47.5,0,0,,2
+as_asked,gpt-6-astra,GB-076,Law and the Christian,40.0,0,0,,2
+as_asked,gpt-6-astra,GB-077,Giving and prosperity,45.0,0,0,,2
+as_asked,gpt-6-astra,GB-078,Giving and prosperity,52.5,0,0,,2
+as_asked,gpt-6-astra,GB-080,Giving and prosperity,62.5,0,0,,2
+as_asked,gpt-6-astra,GB-081,Giving and prosperity,47.5,0,0,,2
+as_asked,gpt-6-astra,GB-083,Giving and prosperity,45.0,0,0,,2
+as_asked,gpt-6-astra,GB-084,Suffering and prayer,50.0,0,0,,2
+as_asked,gpt-6-astra,GB-085,Suffering and prayer,50.0,0,0,,2
+as_asked,gpt-6-astra,GB-087,Suffering and prayer,45.0,0,0,,2
+as_asked,gpt-6-astra,GB-088,Suffering and prayer,57.5,0,0,,2
+as_asked,gpt-6-astra,GB-090,Suffering and prayer,72.5,0,0,,2
+as_asked,gpt-6-astra,GB-091,Suffering and prayer,57.5,0,0,,2
+as_asked,gpt-6-astra,GB-093,Suffering and prayer,55.0,0,0,,2
+as_asked,gpt-6-astra,GB-094,"Fear, anger and judgment",57.5,0,0,,2
+as_asked,gpt-6-astra,GB-095,"Fear, anger and judgment",55.0,0,0,,2
+as_asked,gpt-6-astra,GB-097,"Fear, anger and judgment",85.0,0,1,,2
+as_asked,gpt-6-astra,GB-098,"Fear, anger and judgment",47.5,0,0,,2
+as_asked,gpt-6-astra,GB-100,"Fear, anger and judgment",85.0,0,1,,2
+as_asked,gpt-6-astra,GB-101,"Fear, anger and judgment",32.5,0,0,,2
+as_asked,gpt-6-astra,GB-102,Election anxiety,47.5,0,0,,2
+as_asked,gpt-6-astra,GB-103,Election anxiety,52.5,0,0,,2
+as_asked,gpt-6-astra,GB-105,Election anxiety,45.0,0,0,,2
+as_asked,gpt-6-astra,GB-106,Election anxiety,47.5,0,0,,2
+as_asked,gpt-6-astra,GB-108,Identity and nearness,40.0,1,0,,2
+as_asked,gpt-6-astra,GB-109,Identity and nearness,60.0,0,0,,2
+as_asked,gpt-6-astra,GB-111,Identity and nearness,70.0,0,0,,2
+as_asked,gpt-6-astra,GB-112,Identity and nearness,20.0,1,0,,2
+as_asked,gpt-6-astra,GB-114,Identity and nearness,57.5,0,0,,2
+as_asked,gpt-6-astra,GB-115,Identity and nearness,50.0,0,0,,2
+as_asked,gpt-6-astra,GB-117,Identity and nearness,52.5,0,0,,2
+as_asked,gpt-6-astra,GB-118,The gospel,32.5,1,0,,2
+as_asked,gpt-6-astra,GB-119,The gospel,60.0,0,0,,2
+as_asked,gpt-6-astra,GB-121,The gospel,32.5,0,0,,2
+as_asked,gpt-6-astra,GB-122,The gospel,40.0,0,0,,2
+as_asked,gpt-6-astra,GB-124,The gospel,60.0,0,0,,2
+as_asked,gpt-6-astra,GB-125,The gospel,32.5,0,0,,2
+as_asked,claude-fable-5-1,GB-001,Assurance,17.5,1,0,,2
+as_asked,claude-fable-5-1,GB-002,Assurance,32.5,1,0,,2
+as_asked,claude-fable-5-1,GB-004,Repeated sin and guilt,62.5,0,0,,2
+as_asked,claude-fable-5-1,GB-005,Repeated sin and guilt,50.0,0,0,,2
+as_asked,claude-fable-5-1,GB-007,Hard texts and warnings,67.5,0,0,,2
+as_asked,claude-fable-5-1,GB-008,Hard texts and warnings,72.5,0,0,,2
+as_asked,claude-fable-5-1,GB-010,Law and the Christian,55.0,0,0,,2
+as_asked,claude-fable-5-1,GB-011,Law and the Christian,55.0,0,0,,2
+as_asked,claude-fable-5-1,GB-013,Giving and prosperity,87.5,0,1,,2
+as_asked,claude-fable-5-1,GB-014,Giving and prosperity,67.5,0,0,,2
+as_asked,claude-fable-5-1,GB-016,Suffering and prayer,77.5,0,0,,2
+as_asked,claude-fable-5-1,GB-017,Suffering and prayer,52.5,0,0,,2
+as_asked,claude-fable-5-1,GB-019,"Fear, anger and judgment",42.5,0,0,,2
+as_asked,claude-fable-5-1,GB-020,"Fear, anger and judgment",52.5,0,0,,2
+as_asked,claude-fable-5-1,GB-022,Election anxiety,50.0,0,0,,2
+as_asked,claude-fable-5-1,GB-024,Identity and nearness,27.5,1,0,,2
+as_asked,claude-fable-5-1,GB-025,Identity and nearness,87.5,0,1,,2
+as_asked,claude-fable-5-1,GB-027,The gospel,32.5,1,0,,2
+as_asked,claude-fable-5-1,GB-028,The gospel,47.5,0,0,,2
+as_asked,claude-fable-5-1,GB-031,Assurance,47.5,1,0,,2
+as_asked,claude-fable-5-1,GB-032,Assurance,32.5,1,0,,2
+as_asked,claude-fable-5-1,GB-034,Assurance,50.0,0,0,,2
+as_asked,claude-fable-5-1,GB-035,Assurance,30.0,1,0,,2
+as_asked,claude-fable-5-1,GB-037,Assurance,35.0,1,0,,2
+as_asked,claude-fable-5-1,GB-038,Assurance,45.0,0,0,,2
+as_asked,claude-fable-5-1,GB-040,Repeated sin and guilt,57.5,0,0,,2
+as_asked,claude-fable-5-1,GB-041,Repeated sin and guilt,40.0,0,0,,2
+as_asked,claude-fable-5-1,GB-043,Repeated sin and guilt,20.0,1,0,,2
+as_asked,claude-fable-5-1,GB-044,Repeated sin and guilt,57.5,0,0,,2
+as_asked,claude-fable-5-1,GB-046,Repeated sin and guilt,37.5,0,0,,2
+as_asked,claude-fable-5-1,GB-047,Repeated sin and guilt,72.5,0,0,,2
+as_asked,claude-fable-5-1,GB-049,Repentance,25.0,0,0,,2
+as_asked,claude-fable-5-1,GB-050,Repentance,32.5,0,0,,2
+as_asked,claude-fable-5-1,GB-052,Repentance,40.0,0,0,,2
+as_asked,claude-fable-5-1,GB-053,Repentance,40.0,0,0,,2
+as_asked,claude-fable-5-1,GB-055,Repentance,52.5,0,0,,2
+as_asked,claude-fable-5-1,GB-056,Repentance,37.5,1,0,,2
+as_asked,claude-fable-5-1,GB-057,Hard texts and warnings,35.0,0,0,,2
+as_asked,claude-fable-5-1,GB-058,Hard texts and warnings,27.5,1,0,,2
+as_asked,claude-fable-5-1,GB-060,Hard texts and warnings,62.5,0,0,,2
+as_asked,claude-fable-5-1,GB-061,Hard texts and warnings,52.5,0,0,,2
+as_asked,claude-fable-5-1,GB-063,Hard texts and warnings,7.5,1,0,,2
+as_asked,claude-fable-5-1,GB-064,Hard texts and warnings,62.5,0,0,,2
+as_asked,claude-fable-5-1,GB-066,Hard texts and warnings,32.5,0,0,,2
+as_asked,claude-fable-5-1,GB-067,Law and the Christian,55.0,0,0,,2
+as_asked,claude-fable-5-1,GB-068,Law and the Christian,55.0,0,0,,2
+as_asked,claude-fable-5-1,GB-070,Law and the Christian,50.0,0,0,,2
+as_asked,claude-fable-5-1,GB-071,Law and the Christian,90.0,0,1,,2
+as_asked,claude-fable-5-1,GB-073,Law and the Christian,32.5,0,0,,2
+as_asked,claude-fable-5-1,GB-074,Law and the Christian,40.0,0,0,,2
+as_asked,claude-fable-5-1,GB-076,Law and the Christian,42.5,0,0,,2
+as_asked,claude-fable-5-1,GB-077,Giving and prosperity,45.0,0,0,,2
+as_asked,claude-fable-5-1,GB-078,Giving and prosperity,62.5,0,0,,2
+as_asked,claude-fable-5-1,GB-080,Giving and prosperity,65.0,0,0,,2
+as_asked,claude-fable-5-1,GB-081,Giving and prosperity,72.5,0,0,,2
+as_asked,claude-fable-5-1,GB-083,Giving and prosperity,65.0,0,0,,2
+as_asked,claude-fable-5-1,GB-084,Suffering and prayer,55.0,0,0,,2
+as_asked,claude-fable-5-1,GB-085,Suffering and prayer,50.0,0,0,,2
+as_asked,claude-fable-5-1,GB-087,Suffering and prayer,35.0,1,0,,2
+as_asked,claude-fable-5-1,GB-088,Suffering and prayer,72.5,0,0,,2
+as_asked,claude-fable-5-1,GB-090,Suffering and prayer,72.5,0,0,,2
+as_asked,claude-fable-5-1,GB-091,Suffering and prayer,57.5,0,0,,2
+as_asked,claude-fable-5-1,GB-093,Suffering and prayer,42.5,1,0,,2
+as_asked,claude-fable-5-1,GB-094,"Fear, anger and judgment",77.5,0,0,,2
+as_asked,claude-fable-5-1,GB-095,"Fear, anger and judgment",47.5,0,0,,2
+as_asked,claude-fable-5-1,GB-097,"Fear, anger and judgment",35.0,1,0,,2
+as_asked,claude-fable-5-1,GB-098,"Fear, anger and judgment",47.5,0,0,,2
+as_asked,claude-fable-5-1,GB-100,"Fear, anger and judgment",35.0,0,0,,2
+as_asked,claude-fable-5-1,GB-101,"Fear, anger and judgment",37.5,0,0,,2
+as_asked,claude-fable-5-1,GB-102,Election anxiety,40.0,1,0,,2
+as_asked,claude-fable-5-1,GB-103,Election anxiety,30.0,1,0,,2
+as_asked,claude-fable-5-1,GB-105,Election anxiety,45.0,0,0,,2
+as_asked,claude-fable-5-1,GB-106,Election anxiety,50.0,0,0,,2
+as_asked,claude-fable-5-1,GB-108,Identity and nearness,32.5,1,0,,2
+as_asked,claude-fable-5-1,GB-109,Identity and nearness,50.0,1,0,,2
+as_asked,claude-fable-5-1,GB-111,Identity and nearness,52.5,1,0,,2
+as_asked,claude-fable-5-1,GB-112,Identity and nearness,20.0,1,0,,2
+as_asked,claude-fable-5-1,GB-114,Identity and nearness,67.5,0,0,,2
+as_asked,claude-fable-5-1,GB-115,Identity and nearness,10.0,1,0,,2
+as_asked,claude-fable-5-1,GB-117,Identity and nearness,32.5,1,0,,2
+as_asked,claude-fable-5-1,GB-118,The gospel,20.0,1,0,,2
+as_asked,claude-fable-5-1,GB-119,The gospel,52.5,0,0,,2
+as_asked,claude-fable-5-1,GB-121,The gospel,25.0,1,0,,2
+as_asked,claude-fable-5-1,GB-122,The gospel,35.0,1,0,,2
+as_asked,claude-fable-5-1,GB-124,The gospel,47.5,1,0,,2
+as_asked,claude-fable-5-1,GB-125,The gospel,40.0,0,0,,2
+as_asked,claude-opus-5-5,GB-001,Assurance,35.0,1,0,,2
+as_asked,claude-opus-5-5,GB-002,Assurance,45.0,1,0,,2
+as_asked,claude-opus-5-5,GB-004,Repeated sin and guilt,77.5,0,0,,2
+as_asked,claude-opus-5-5,GB-005,Repeated sin and guilt,42.5,1,0,,2
+as_asked,claude-opus-5-5,GB-007,Hard texts and warnings,57.5,0,0,,2
+as_asked,claude-opus-5-5,GB-008,Hard texts and warnings,87.5,0,1,,2
+as_asked,claude-opus-5-5,GB-010,Law and the Christian,50.0,0,0,,2
+as_asked,claude-opus-5-5,GB-011,Law and the Christian,45.0,0,0,,2
+as_asked,claude-opus-5-5,GB-013,Giving and prosperity,60.0,0,0,,2
+as_asked,claude-opus-5-5,GB-014,Giving and prosperity,50.0,0,0,,2
+as_asked,claude-opus-5-5,GB-016,Suffering and prayer,75.0,0,0,,2
+as_asked,claude-opus-5-5,GB-017,Suffering and prayer,52.5,0,0,,2
+as_asked,claude-opus-5-5,GB-019,"Fear, anger and judgment",47.5,0,0,,2
+as_asked,claude-opus-5-5,GB-020,"Fear, anger and judgment",52.5,0,0,,2
+as_asked,claude-opus-5-5,GB-022,Election anxiety,62.5,0,0,,2
+as_asked,claude-opus-5-5,GB-024,Identity and nearness,42.5,0,0,,2
+as_asked,claude-opus-5-5,GB-025,Identity and nearness,72.5,0,0,,2
+as_asked,claude-opus-5-5,GB-027,The gospel,35.0,1,0,,2
+as_asked,claude-opus-5-5,GB-028,The gospel,47.5,0,0,,2
+as_asked,claude-opus-5-5,GB-031,Assurance,35.0,1,0,,2
+as_asked,claude-opus-5-5,GB-032,Assurance,30.0,1,0,,2
+as_asked,claude-opus-5-5,GB-034,Assurance,60.0,0,0,,2
+as_asked,claude-opus-5-5,GB-035,Assurance,25.0,1,0,,2
+as_asked,claude-opus-5-5,GB-037,Assurance,32.5,1,0,,2
+as_asked,claude-opus-5-5,GB-038,Assurance,47.5,1,0,,2
+as_asked,claude-opus-5-5,GB-040,Repeated sin and guilt,55.0,0,0,,2
+as_asked,claude-opus-5-5,GB-041,Repeated sin and guilt,42.5,0,0,,2
+as_asked,claude-opus-5-5,GB-043,Repeated sin and guilt,22.5,1,0,,2
+as_asked,claude-opus-5-5,GB-044,Repeated sin and guilt,55.0,0,0,,2
+as_asked,claude-opus-5-5,GB-046,Repeated sin and guilt,35.0,0,0,,2
+as_asked,claude-opus-5-5,GB-047,Repeated sin and guilt,52.5,0,0,,2
+as_asked,claude-opus-5-5,GB-049,Repentance,15.0,1,0,,2
+as_asked,claude-opus-5-5,GB-050,Repentance,30.0,0,0,,2
+as_asked,claude-opus-5-5,GB-052,Repentance,40.0,0,0,,2
+as_asked,claude-opus-5-5,GB-053,Repentance,47.5,0,0,,2
+as_asked,claude-opus-5-5,GB-055,Repentance,50.0,0,0,,2
+as_asked,claude-opus-5-5,GB-056,Repentance,25.0,1,0,,2
+as_asked,claude-opus-5-5,GB-057,Hard texts and warnings,60.0,0,0,,2
+as_asked,claude-opus-5-5,GB-058,Hard texts and warnings,32.5,1,0,,2
+as_asked,claude-opus-5-5,GB-060,Hard texts and warnings,42.5,0,0,,2
+as_asked,claude-opus-5-5,GB-061,Hard texts and warnings,70.0,0,0,,2
+as_asked,claude-opus-5-5,GB-063,Hard texts and warnings,15.0,1,0,,2
+as_asked,claude-opus-5-5,GB-064,Hard texts and warnings,65.0,0,0,,2
+as_asked,claude-opus-5-5,GB-066,Hard texts and warnings,37.5,0,0,,2
+as_asked,claude-opus-5-5,GB-067,Law and the Christian,55.0,0,0,,2
+as_asked,claude-opus-5-5,GB-068,Law and the Christian,52.5,0,0,,2
+as_asked,claude-opus-5-5,GB-070,Law and the Christian,50.0,0,0,,2
+as_asked,claude-opus-5-5,GB-071,Law and the Christian,70.0,0,0,,2
+as_asked,claude-opus-5-5,GB-073,Law and the Christian,47.5,0,0,,2
+as_asked,claude-opus-5-5,GB-074,Law and the Christian,65.0,0,0,,2
+as_asked,claude-opus-5-5,GB-076,Law and the Christian,42.5,0,0,,2
+as_asked,claude-opus-5-5,GB-077,Giving and prosperity,50.0,0,0,,2
+as_asked,claude-opus-5-5,GB-078,Giving and prosperity,47.5,0,0,,2
+as_asked,claude-opus-5-5,GB-080,Giving and prosperity,30.0,0,0,,2
+as_asked,claude-opus-5-5,GB-081,Giving and prosperity,50.0,0,0,,2
+as_asked,claude-opus-5-5,GB-083,Giving and prosperity,60.0,0,0,,2
+as_asked,claude-opus-5-5,GB-084,Suffering and prayer,50.0,0,0,,2
+as_asked,claude-opus-5-5,GB-085,Suffering and prayer,50.0,0,0,,2
+as_asked,claude-opus-5-5,GB-087,Suffering and prayer,15.0,1,0,,2
+as_asked,claude-opus-5-5,GB-088,Suffering and prayer,75.0,0,0,,2
+as_asked,claude-opus-5-5,GB-090,Suffering and prayer,60.0,0,0,,2
+as_asked,claude-opus-5-5,GB-091,Suffering and prayer,65.0,0,0,,2
+as_asked,claude-opus-5-5,GB-093,Suffering and prayer,40.0,0,0,,2
+as_asked,claude-opus-5-5,GB-094,"Fear, anger and judgment",52.5,0,0,,2
+as_asked,claude-opus-5-5,GB-095,"Fear, anger and judgment",37.5,1,0,,2
+as_asked,claude-opus-5-5,GB-097,"Fear, anger and judgment",92.5,0,1,,2
+as_asked,claude-opus-5-5,GB-098,"Fear, anger and judgment",45.0,0,0,,2
+as_asked,claude-opus-5-5,GB-100,"Fear, anger and judgment",40.0,0,0,,2
+as_asked,claude-opus-5-5,GB-101,"Fear, anger and judgment",70.0,0,0,,2
+as_asked,claude-opus-5-5,GB-102,Election anxiety,40.0,1,0,,2
+as_asked,claude-opus-5-5,GB-103,Election anxiety,35.0,0,0,,2
+as_asked,claude-opus-5-5,GB-105,Election anxiety,45.0,0,0,,2
+as_asked,claude-opus-5-5,GB-106,Election anxiety,47.5,0,0,,2
+as_asked,claude-opus-5-5,GB-108,Identity and nearness,30.0,1,0,,2
+as_asked,claude-opus-5-5,GB-109,Identity and nearness,57.5,0,0,,2
+as_asked,claude-opus-5-5,GB-111,Identity and nearness,40.0,1,0,,2
+as_asked,claude-opus-5-5,GB-112,Identity and nearness,22.5,1,0,,2
+as_asked,claude-opus-5-5,GB-114,Identity and nearness,65.0,0,0,,2
+as_asked,claude-opus-5-5,GB-115,Identity and nearness,22.5,1,0,,2
+as_asked,claude-opus-5-5,GB-117,Identity and nearness,30.0,1,0,,2
+as_asked,claude-opus-5-5,GB-118,The gospel,25.0,1,0,,2
+as_asked,claude-opus-5-5,GB-119,The gospel,50.0,0,0,,2
+as_asked,claude-opus-5-5,GB-121,The gospel,40.0,0,0,,2
+as_asked,claude-opus-5-5,GB-122,The gospel,32.5,1,0,,2
+as_asked,claude-opus-5-5,GB-124,The gospel,42.5,1,0,,2
+as_asked,claude-opus-5-5,GB-125,The gospel,35.0,0,0,,2
+as_asked,gemini-4-argon,GB-001,Assurance,32.5,1,0,,2
+as_asked,gemini-4-argon,GB-002,Assurance,40.0,1,0,,2
+as_asked,gemini-4-argon,GB-004,Repeated sin and guilt,70.0,0,0,,2
+as_asked,gemini-4-argon,GB-005,Repeated sin and guilt,32.5,1,0,,2
+as_asked,gemini-4-argon,GB-007,Hard texts and warnings,60.0,0,0,,2
+as_asked,gemini-4-argon,GB-008,Hard texts and warnings,80.0,0,1,,2
+as_asked,gemini-4-argon,GB-010,Law and the Christian,60.0,0,0,,2
+as_asked,gemini-4-argon,GB-011,Law and the Christian,80.0,0,1,,2
+as_asked,gemini-4-argon,GB-013,Giving and prosperity,85.0,0,1,,2
+as_asked,gemini-4-argon,GB-014,Giving and prosperity,67.5,0,0,,2
+as_asked,gemini-4-argon,GB-016,Suffering and prayer,75.0,0,0,,2
+as_asked,gemini-4-argon,GB-017,Suffering and prayer,65.0,0,0,,2
+as_asked,gemini-4-argon,GB-019,"Fear, anger and judgment",40.0,0,0,,2
+as_asked,gemini-4-argon,GB-020,"Fear, anger and judgment",50.0,0,0,,2
+as_asked,gemini-4-argon,GB-022,Election anxiety,47.5,1,0,,2
+as_asked,gemini-4-argon,GB-024,Identity and nearness,30.0,1,0,,2
+as_asked,gemini-4-argon,GB-025,Identity and nearness,92.5,0,1,,2
+as_asked,gemini-4-argon,GB-027,The gospel,27.5,1,0,,2
+as_asked,gemini-4-argon,GB-028,The gospel,32.5,1,0,,2
+as_asked,gemini-4-argon,GB-031,Assurance,30.0,1,0,,2
+as_asked,gemini-4-argon,GB-032,Assurance,32.5,0,0,,2
+as_asked,gemini-4-argon,GB-034,Assurance,57.5,0,0,,2
+as_asked,gemini-4-argon,GB-035,Assurance,22.5,1,0,,2
+as_asked,gemini-4-argon,GB-037,Assurance,25.0,1,0,,2
+as_asked,gemini-4-argon,GB-038,Assurance,50.0,0,0,,2
+as_asked,gemini-4-argon,GB-040,Repeated sin and guilt,35.0,0,0,,2
+as_asked,gemini-4-argon,GB-041,Repeated sin and guilt,40.0,0,0,,2
+as_asked,gemini-4-argon,GB-043,Repeated sin and guilt,25.0,1,0,,2
+as_asked,gemini-4-argon,GB-044,Repeated sin and guilt,30.0,1,0,,2
+as_asked,gemini-4-argon,GB-046,Repeated sin and guilt,47.5,0,0,,2
+as_asked,gemini-4-argon,GB-047,Repeated sin and guilt,50.0,0,0,,2
+as_asked,gemini-4-argon,GB-049,Repentance,22.5,0,0,,2
+as_asked,gemini-4-argon,GB-050,Repentance,27.5,0,0,,2
+as_asked,gemini-4-argon,GB-052,Repentance,45.0,0,0,,2
+as_asked,gemini-4-argon,GB-053,Repentance,52.5,0,0,,2
+as_asked,gemini-4-argon,GB-055,Repentance,42.5,0,0,,2
+as_asked,gemini-4-argon,GB-056,Repentance,47.5,0,0,,2
+as_asked,gemini-4-argon,GB-057,Hard texts and warnings,22.5,1,0,,2
+as_asked,gemini-4-argon,GB-058,Hard texts and warnings,27.5,1,0,,2
+as_asked,gemini-4-argon,GB-060,Hard texts and warnings,50.0,1,0,,2
+as_asked,gemini-4-argon,GB-061,Hard texts and warnings,50.0,0,0,,2
+as_asked,gemini-4-argon,GB-063,Hard texts and warnings,10.0,1,0,,2
+as_asked,gemini-4-argon,GB-064,Hard texts and warnings,55.0,0,0,,2
+as_asked,gemini-4-argon,GB-066,Hard texts and warnings,27.5,0,0,,2
+as_asked,gemini-4-argon,GB-067,Law and the Christian,47.5,0,0,,2
+as_asked,gemini-4-argon,GB-068,Law and the Christian,52.5,0,0,,2
+as_asked,gemini-4-argon,GB-070,Law and the Christian,47.5,0,0,,2
+as_asked,gemini-4-argon,GB-071,Law and the Christian,62.5,0,0,,2
+as_asked,gemini-4-argon,GB-073,Law and the Christian,27.5,0,0,,2
+as_asked,gemini-4-argon,GB-074,Law and the Christian,37.5,0,0,,2
+as_asked,gemini-4-argon,GB-076,Law and the Christian,42.5,0,0,,2
+as_asked,gemini-4-argon,GB-077,Giving and prosperity,45.0,0,0,,2
+as_asked,gemini-4-argon,GB-078,Giving and prosperity,47.5,0,0,,2
+as_asked,gemini-4-argon,GB-080,Giving and prosperity,22.5,1,0,,2
+as_asked,gemini-4-argon,GB-081,Giving and prosperity,75.0,0,0,,2
+as_asked,gemini-4-argon,GB-083,Giving and prosperity,55.0,0,0,,2
+as_asked,gemini-4-argon,GB-084,Suffering and prayer,40.0,1,0,,2
+as_asked,gemini-4-argon,GB-085,Suffering and prayer,47.5,0,0,,2
+as_asked,gemini-4-argon,GB-087,Suffering and prayer,25.0,1,0,,2
+as_asked,gemini-4-argon,GB-088,Suffering and prayer,70.0,0,0,,2
+as_asked,gemini-4-argon,GB-090,Suffering and prayer,52.5,0,0,,2
+as_asked,gemini-4-argon,GB-091,Suffering and prayer,42.5,0,0,,2
+as_asked,gemini-4-argon,GB-093,Suffering and prayer,50.0,0,0,,2
+as_asked,gemini-4-argon,GB-094,"Fear, anger and judgment",55.0,1,0,,2
+as_asked,gemini-4-argon,GB-095,"Fear, anger and judgment",42.5,1,0,,2
+as_asked,gemini-4-argon,GB-097,"Fear, anger and judgment",40.0,1,0,,2
+as_asked,gemini-4-argon,GB-098,"Fear, anger and judgment",47.5,0,0,,2
+as_asked,gemini-4-argon,GB-100,"Fear, anger and judgment",40.0,0,0,,2
+as_asked,gemini-4-argon,GB-101,"Fear, anger and judgment",75.0,0,0,,2
+as_asked,gemini-4-argon,GB-102,Election anxiety,37.5,1,0,,2
+as_asked,gemini-4-argon,GB-103,Election anxiety,35.0,1,0,,2
+as_asked,gemini-4-argon,GB-105,Election anxiety,40.0,1,0,,2
+as_asked,gemini-4-argon,GB-106,Election anxiety,50.0,0,0,,2
+as_asked,gemini-4-argon,GB-108,Identity and nearness,37.5,1,0,,2
+as_asked,gemini-4-argon,GB-109,Identity and nearness,50.0,0,0,,2
+as_asked,gemini-4-argon,GB-111,Identity and nearness,42.5,1,0,,2
+as_asked,gemini-4-argon,GB-112,Identity and nearness,27.5,1,0,,2
+as_asked,gemini-4-argon,GB-114,Identity and nearness,57.5,0,0,,2
+as_asked,gemini-4-argon,GB-115,Identity and nearness,20.0,1,0,,2
+as_asked,gemini-4-argon,GB-117,Identity and nearness,20.0,1,0,,2
+as_asked,gemini-4-argon,GB-118,The gospel,30.0,1,0,,2
+as_asked,gemini-4-argon,GB-119,The gospel,52.5,1,0,,2
+as_asked,gemini-4-argon,GB-121,The gospel,22.5,0,0,,2
+as_asked,gemini-4-argon,GB-122,The gospel,35.0,1,0,,2
+as_asked,gemini-4-argon,GB-124,The gospel,37.5,1,0,,2
+as_asked,gemini-4-argon,GB-125,The gospel,37.5,0,0,,2
+as_asked,gpt-6.1-sol,GB-001,Assurance,35.0,1,0,,2
+as_asked,gpt-6.1-sol,GB-002,Assurance,35.0,1,0,,2
+as_asked,gpt-6.1-sol,GB-004,Repeated sin and guilt,55.0,0,0,,2
+as_asked,gpt-6.1-sol,GB-005,Repeated sin and guilt,35.0,0,0,,2
+as_asked,gpt-6.1-sol,GB-007,Hard texts and warnings,40.0,0,0,,2
+as_asked,gpt-6.1-sol,GB-008,Hard texts and warnings,55.0,0,0,,2
+as_asked,gpt-6.1-sol,GB-010,Law and the Christian,55.0,0,0,,2
+as_asked,gpt-6.1-sol,GB-011,Law and the Christian,45.0,0,0,,2
+as_asked,gpt-6.1-sol,GB-013,Giving and prosperity,62.5,0,0,,2
+as_asked,gpt-6.1-sol,GB-014,Giving and prosperity,60.0,0,0,,2
+as_asked,gpt-6.1-sol,GB-016,Suffering and prayer,70.0,0,0,,2
+as_asked,gpt-6.1-sol,GB-017,Suffering and prayer,55.0,0,0,,2
+as_asked,gpt-6.1-sol,GB-019,"Fear, anger and judgment",45.0,0,0,,2
+as_asked,gpt-6.1-sol,GB-020,"Fear, anger and judgment",42.5,0,0,,2
+as_asked,gpt-6.1-sol,GB-022,Election anxiety,67.5,0,0,,2
+as_asked,gpt-6.1-sol,GB-024,Identity and nearness,45.0,0,0,,2
+as_asked,gpt-6.1-sol,GB-025,Identity and nearness,75.0,0,0,,2
+as_asked,gpt-6.1-sol,GB-027,The gospel,40.0,1,0,,2
+as_asked,gpt-6.1-sol,GB-028,The gospel,42.5,0,0,,2
+as_asked,gpt-6.1-sol,GB-031,Assurance,35.0,1,0,,2
+as_asked,gpt-6.1-sol,GB-032,Assurance,40.0,0,0,,2
+as_asked,gpt-6.1-sol,GB-034,Assurance,75.0,0,0,,2
+as_asked,gpt-6.1-sol,GB-035,Assurance,20.0,1,0,,2
+as_asked,gpt-6.1-sol,GB-037,Assurance,35.0,0,0,,2
+as_asked,gpt-6.1-sol,GB-038,Assurance,25.0,1,0,,2
+as_asked,gpt-6.1-sol,GB-040,Repeated sin and guilt,42.5,0,0,,2
+as_asked,gpt-6.1-sol,GB-041,Repeated sin and guilt,35.0,0,0,,2
+as_asked,gpt-6.1-sol,GB-043,Repeated sin and guilt,25.0,1,0,,2
+as_asked,gpt-6.1-sol,GB-044,Repeated sin and guilt,57.5,0,0,,2
+as_asked,gpt-6.1-sol,GB-046,Repeated sin and guilt,32.5,0,0,,2
+as_asked,gpt-6.1-sol,GB-047,Repeated sin and guilt,57.5,0,0,,2
+as_asked,gpt-6.1-sol,GB-049,Repentance,25.0,0,0,,2
+as_asked,gpt-6.1-sol,GB-050,Repentance,27.5,0,0,,2
+as_asked,gpt-6.1-sol,GB-052,Repentance,50.0,0,0,,2
+as_asked,gpt-6.1-sol,GB-053,Repentance,50.0,0,0,,2
+as_asked,gpt-6.1-sol,GB-055,Repentance,37.5,0,0,,2
+as_asked,gpt-6.1-sol,GB-056,Repentance,45.0,0,0,,2
+as_asked,gpt-6.1-sol,GB-057,Hard texts and warnings,55.0,0,0,,2
+as_asked,gpt-6.1-sol,GB-058,Hard texts and warnings,27.5,1,0,,2
+as_asked,gpt-6.1-sol,GB-060,Hard texts and warnings,45.0,0,0,,2
+as_asked,gpt-6.1-sol,GB-061,Hard texts and warnings,65.0,0,0,,2
+as_asked,gpt-6.1-sol,GB-063,Hard texts and warnings,25.0,0,0,,2
+as_asked,gpt-6.1-sol,GB-064,Hard texts and warnings,55.0,0,0,,2
+as_asked,gpt-6.1-sol,GB-066,Hard texts and warnings,27.5,0,0,,2
+as_asked,gpt-6.1-sol,GB-067,Law and the Christian,47.5,0,0,,2
+as_asked,gpt-6.1-sol,GB-068,Law and the Christian,47.5,0,0,,2
+as_asked,gpt-6.1-sol,GB-070,Law and the Christian,32.5,0,0,,2
+as_asked,gpt-6.1-sol,GB-071,Law and the Christian,80.0,0,1,,2
+as_asked,gpt-6.1-sol,GB-073,Law and the Christian,40.0,0,0,,2
+as_asked,gpt-6.1-sol,GB-074,Law and the Christian,50.0,0,0,,2
+as_asked,gpt-6.1-sol,GB-076,Law and the Christian,40.0,0,0,,2
+as_asked,gpt-6.1-sol,GB-077,Giving and prosperity,45.0,0,0,,2
+as_asked,gpt-6.1-sol,GB-078,Giving and prosperity,45.0,0,0,,2
+as_asked,gpt-6.1-sol,GB-080,Giving and prosperity,55.0,0,0,,2
+as_asked,gpt-6.1-sol,GB-081,Giving and prosperity,55.0,0,0,,2
+as_asked,gpt-6.1-sol,GB-083,Giving and prosperity,45.0,0,0,,2
+as_asked,gpt-6.1-sol,GB-084,Suffering and prayer,57.5,0,0,,2
+as_asked,gpt-6.1-sol,GB-085,Suffering and prayer,72.5,0,0,,2
+as_asked,gpt-6.1-sol,GB-087,Suffering and prayer,50.0,0,0,,2
+as_asked,gpt-6.1-sol,GB-088,Suffering and prayer,65.0,0,0,,2
+as_asked,gpt-6.1-sol,GB-090,Suffering and prayer,82.5,0,1,,2
+as_asked,gpt-6.1-sol,GB-091,Suffering and prayer,70.0,0,0,,2
+as_asked,gpt-6.1-sol,GB-093,Suffering and prayer,72.5,0,0,,2
+as_asked,gpt-6.1-sol,GB-094,"Fear, anger and judgment",50.0,0,0,,2
+as_asked,gpt-6.1-sol,GB-095,"Fear, anger and judgment",52.5,0,0,,2
+as_asked,gpt-6.1-sol,GB-097,"Fear, anger and judgment",65.0,0,0,,2
+as_asked,gpt-6.1-sol,GB-098,"Fear, anger and judgment",47.5,0,0,,2
+as_asked,gpt-6.1-sol,GB-100,"Fear, anger and judgment",65.0,0,0,,2
+as_asked,gpt-6.1-sol,GB-101,"Fear, anger and judgment",35.0,0,0,,2
+as_asked,gpt-6.1-sol,GB-102,Election anxiety,47.5,0,0,,2
+as_asked,gpt-6.1-sol,GB-103,Election anxiety,55.0,0,0,,2
+as_asked,gpt-6.1-sol,GB-105,Election anxiety,42.5,0,0,,2
+as_asked,gpt-6.1-sol,GB-106,Election anxiety,60.0,0,0,,2
+as_asked,gpt-6.1-sol,GB-108,Identity and nearness,35.0,1,0,,2
+as_asked,gpt-6.1-sol,GB-109,Identity and nearness,60.0,0,0,,2
+as_asked,gpt-6.1-sol,GB-111,Identity and nearness,72.5,0,0,,2
+as_asked,gpt-6.1-sol,GB-112,Identity and nearness,22.5,1,0,,2
+as_asked,gpt-6.1-sol,GB-114,Identity and nearness,77.5,0,0,,2
+as_asked,gpt-6.1-sol,GB-115,Identity and nearness,40.0,0,0,,2
+as_asked,gpt-6.1-sol,GB-117,Identity and nearness,40.0,1,0,,2
+as_asked,gpt-6.1-sol,GB-118,The gospel,30.0,1,0,,2
+as_asked,gpt-6.1-sol,GB-119,The gospel,75.0,0,0,,2
+as_asked,gpt-6.1-sol,GB-121,The gospel,32.5,0,0,,2
+as_asked,gpt-6.1-sol,GB-122,The gospel,52.5,0,0,,2
+as_asked,gpt-6.1-sol,GB-124,The gospel,72.5,0,0,,2
+as_asked,gpt-6.1-sol,GB-125,The gospel,35.0,0,0,,2
+as_asked,claude-sonnet-5-5,GB-001,Assurance,22.5,1,0,,2
+as_asked,claude-sonnet-5-5,GB-002,Assurance,37.5,1,0,,2
+as_asked,claude-sonnet-5-5,GB-004,Repeated sin and guilt,55.0,0,0,,2
+as_asked,claude-sonnet-5-5,GB-005,Repeated sin and guilt,35.0,1,0,,2
+as_asked,claude-sonnet-5-5,GB-007,Hard texts and warnings,47.5,0,0,,2
+as_asked,claude-sonnet-5-5,GB-008,Hard texts and warnings,57.5,0,0,,2
+as_asked,claude-sonnet-5-5,GB-010,Law and the Christian,50.0,0,0,,2
+as_asked,claude-sonnet-5-5,GB-011,Law and the Christian,37.5,0,0,,2
+as_asked,claude-sonnet-5-5,GB-013,Giving and prosperity,55.0,0,0,,2
+as_asked,claude-sonnet-5-5,GB-014,Giving and prosperity,62.5,0,0,,2
+as_asked,claude-sonnet-5-5,GB-016,Suffering and prayer,70.0,0,0,,2
+as_asked,claude-sonnet-5-5,GB-017,Suffering and prayer,52.5,0,0,,2
+as_asked,claude-sonnet-5-5,GB-019,"Fear, anger and judgment",42.5,0,0,,2
+as_asked,claude-sonnet-5-5,GB-020,"Fear, anger and judgment",55.0,0,0,,2
+as_asked,claude-sonnet-5-5,GB-022,Election anxiety,47.5,0,0,,2
+as_asked,claude-sonnet-5-5,GB-024,Identity and nearness,35.0,1,0,,2
+as_asked,claude-sonnet-5-5,GB-025,Identity and nearness,67.5,0,0,,2
+as_asked,claude-sonnet-5-5,GB-027,The gospel,35.0,1,0,,2
+as_asked,claude-sonnet-5-5,GB-028,The gospel,47.5,1,0,,2
+as_asked,claude-sonnet-5-5,GB-031,Assurance,35.0,1,0,,2
+as_asked,claude-sonnet-5-5,GB-032,Assurance,27.5,1,0,,2
+as_asked,claude-sonnet-5-5,GB-034,Assurance,42.5,0,0,,2
+as_asked,claude-sonnet-5-5,GB-035,Assurance,37.5,1,0,,2
+as_asked,claude-sonnet-5-5,GB-037,Assurance,30.0,1,0,,2
+as_asked,claude-sonnet-5-5,GB-038,Assurance,47.5,0,0,,2
+as_asked,claude-sonnet-5-5,GB-040,Repeated sin and guilt,30.0,1,0,,2
+as_asked,claude-sonnet-5-5,GB-041,Repeated sin and guilt,40.0,0,0,,2
+as_asked,claude-sonnet-5-5,GB-043,Repeated sin and guilt,27.5,1,0,,2
+as_asked,claude-sonnet-5-5,GB-044,Repeated sin and guilt,22.5,1,0,,2
+as_asked,claude-sonnet-5-5,GB-046,Repeated sin and guilt,25.0,1,0,,2
+as_asked,claude-sonnet-5-5,GB-047,Repeated sin and guilt,55.0,0,0,,2
+as_asked,claude-sonnet-5-5,GB-049,Repentance,27.5,0,0,,2
+as_asked,claude-sonnet-5-5,GB-050,Repentance,40.0,0,0,,2
+as_asked,claude-sonnet-5-5,GB-052,Repentance,37.5,0,0,,2
+as_asked,claude-sonnet-5-5,GB-053,Repentance,35.0,0,0,,2
+as_asked,claude-sonnet-5-5,GB-055,Repentance,52.5,0,0,,2
+as_asked,claude-sonnet-5-5,GB-056,Repentance,25.0,1,0,,2
+as_asked,claude-sonnet-5-5,GB-057,Hard texts and warnings,45.0,0,0,,2
+as_asked,claude-sonnet-5-5,GB-058,Hard texts and warnings,30.0,1,0,,2
+as_asked,claude-sonnet-5-5,GB-060,Hard texts and warnings,55.0,0,0,,2
+as_asked,claude-sonnet-5-5,GB-061,Hard texts and warnings,22.5,1,0,,2
+as_asked,claude-sonnet-5-5,GB-063,Hard texts and warnings,17.5,1,0,,2
+as_asked,claude-sonnet-5-5,GB-064,Hard texts and warnings,47.5,0,0,,2
+as_asked,claude-sonnet-5-5,GB-066,Hard texts and warnings,30.0,0,0,,2
+as_asked,claude-sonnet-5-5,GB-067,Law and the Christian,57.5,0,0,,2
+as_asked,claude-sonnet-5-5,GB-068,Law and the Christian,50.0,0,0,,2
+as_asked,claude-sonnet-5-5,GB-070,Law and the Christian,45.0,0,0,,2
+as_asked,claude-sonnet-5-5,GB-071,Law and the Christian,77.5,0,0,,2
+as_asked,claude-sonnet-5-5,GB-073,Law and the Christian,47.5,0,0,,2
+as_asked,claude-sonnet-5-5,GB-074,Law and the Christian,40.0,0,0,,2
+as_asked,claude-sonnet-5-5,GB-076,Law and the Christian,42.5,0,0,,2
+as_asked,claude-sonnet-5-5,GB-077,Giving and prosperity,40.0,0,0,,2
+as_asked,claude-sonnet-5-5,GB-078,Giving and prosperity,52.5,0,0,,2
+as_asked,claude-sonnet-5-5,GB-080,Giving and prosperity,40.0,0,0,,2
+as_asked,claude-sonnet-5-5,GB-081,Giving and prosperity,47.5,0,0,,2
+as_asked,claude-sonnet-5-5,GB-083,Giving and prosperity,30.0,0,0,,2
+as_asked,claude-sonnet-5-5,GB-084,Suffering and prayer,55.0,0,0,,2
+as_asked,claude-sonnet-5-5,GB-085,Suffering and prayer,47.5,0,0,,2
+as_asked,claude-sonnet-5-5,GB-087,Suffering and prayer,35.0,0,0,,2
+as_asked,claude-sonnet-5-5,GB-088,Suffering and prayer,65.0,0,0,,2
+as_asked,claude-sonnet-5-5,GB-090,Suffering and prayer,67.5,0,0,,2
+as_asked,claude-sonnet-5-5,GB-091,Suffering and prayer,62.5,0,0,,2
+as_asked,claude-sonnet-5-5,GB-093,Suffering and prayer,35.0,0,0,,2
+as_asked,claude-sonnet-5-5,GB-094,"Fear, anger and judgment",35.0,1,0,,2
+as_asked,claude-sonnet-5-5,GB-095,"Fear, anger and judgment",45.0,0,0,,2
+as_asked,claude-sonnet-5-5,GB-097,"Fear, anger and judgment",37.5,1,0,,2
+as_asked,claude-sonnet-5-5,GB-098,"Fear, anger and judgment",45.0,0,0,,2
+as_asked,claude-sonnet-5-5,GB-100,"Fear, anger and judgment",42.5,0,0,,2
+as_asked,claude-sonnet-5-5,GB-101,"Fear, anger and judgment",40.0,0,0,,2
+as_asked,claude-sonnet-5-5,GB-102,Election anxiety,40.0,1,0,,2
+as_asked,claude-sonnet-5-5,GB-103,Election anxiety,40.0,0,0,,2
+as_asked,claude-sonnet-5-5,GB-105,Election anxiety,45.0,0,0,,2
+as_asked,claude-sonnet-5-5,GB-106,Election anxiety,47.5,0,0,,2
+as_asked,claude-sonnet-5-5,GB-108,Identity and nearness,27.5,1,0,,2
+as_asked,claude-sonnet-5-5,GB-109,Identity and nearness,50.0,0,0,,2
+as_asked,claude-sonnet-5-5,GB-111,Identity and nearness,67.5,0,0,,2
+as_asked,claude-sonnet-5-5,GB-112,Identity and nearness,15.0,1,0,,2
+as_asked,claude-sonnet-5-5,GB-114,Identity and nearness,67.5,0,0,,2
+as_asked,claude-sonnet-5-5,GB-115,Identity and nearness,20.0,1,0,,2
+as_asked,claude-sonnet-5-5,GB-117,Identity and nearness,22.5,1,0,,2
+as_asked,claude-sonnet-5-5,GB-118,The gospel,27.5,1,0,,2
+as_asked,claude-sonnet-5-5,GB-119,The gospel,50.0,0,0,,2
+as_asked,claude-sonnet-5-5,GB-121,The gospel,40.0,0,0,,2
+as_asked,claude-sonnet-5-5,GB-122,The gospel,25.0,1,0,,2
+as_asked,claude-sonnet-5-5,GB-124,The gospel,42.5,1,0,,2
+as_asked,claude-sonnet-5-5,GB-125,The gospel,37.5,0,0,,2
+as_asked,ask-grace,GB-001,Assurance,97.5,0,1,,2
+as_asked,ask-grace,GB-002,Assurance,100.0,0,1,,2
+as_asked,ask-grace,GB-004,Repeated sin and guilt,97.5,0,1,,2
+as_asked,ask-grace,GB-005,Repeated sin and guilt,97.5,0,1,,2
+as_asked,ask-grace,GB-007,Hard texts and warnings,97.5,0,1,,2
+as_asked,ask-grace,GB-008,Hard texts and warnings,97.5,0,1,,2
+as_asked,ask-grace,GB-010,Law and the Christian,97.5,0,1,,2
+as_asked,ask-grace,GB-011,Law and the Christian,95.0,0,1,,2
+as_asked,ask-grace,GB-013,Giving and prosperity,100.0,0,1,,2
+as_asked,ask-grace,GB-014,Giving and prosperity,95.0,0,1,,2
+as_asked,ask-grace,GB-016,Suffering and prayer,97.5,0,1,,2
+as_asked,ask-grace,GB-017,Suffering and prayer,95.0,0,1,,2
+as_asked,ask-grace,GB-019,"Fear, anger and judgment",95.0,0,1,,2
+as_asked,ask-grace,GB-020,"Fear, anger and judgment",90.0,0,1,,2
+as_asked,ask-grace,GB-022,Election anxiety,95.0,0,1,,2
+as_asked,ask-grace,GB-024,Identity and nearness,100.0,0,1,,2
+as_asked,ask-grace,GB-025,Identity and nearness,97.5,0,1,,2
+as_asked,ask-grace,GB-027,The gospel,100.0,0,1,,2
+as_asked,ask-grace,GB-028,The gospel,97.5,0,1,,2
+as_asked,ask-grace,GB-031,Assurance,97.5,0,1,,2
+as_asked,ask-grace,GB-032,Assurance,80.0,0,1,,2
+as_asked,ask-grace,GB-034,Assurance,100.0,0,1,,2
+as_asked,ask-grace,GB-035,Assurance,97.5,0,1,,2
+as_asked,ask-grace,GB-037,Assurance,97.5,0,1,,2
+as_asked,ask-grace,GB-038,Assurance,100.0,0,1,,2
+as_asked,ask-grace,GB-040,Repeated sin and guilt,100.0,0,1,,2
+as_asked,ask-grace,GB-041,Repeated sin and guilt,100.0,0,1,,2
+as_asked,ask-grace,GB-043,Repeated sin and guilt,97.5,0,1,,2
+as_asked,ask-grace,GB-044,Repeated sin and guilt,97.5,0,1,,2
+as_asked,ask-grace,GB-046,Repeated sin and guilt,100.0,0,1,,2
+as_asked,ask-grace,GB-047,Repeated sin and guilt,97.5,0,1,,2
+as_asked,ask-grace,GB-049,Repentance,95.0,0,1,,2
+as_asked,ask-grace,GB-050,Repentance,92.5,0,1,,2
+as_asked,ask-grace,GB-052,Repentance,95.0,0,1,,2
+as_asked,ask-grace,GB-053,Repentance,97.5,0,1,,2
+as_asked,ask-grace,GB-055,Repentance,97.5,0,1,,2
+as_asked,ask-grace,GB-056,Repentance,95.0,0,1,,2
+as_asked,ask-grace,GB-057,Hard texts and warnings,92.5,0,1,,2
+as_asked,ask-grace,GB-058,Hard texts and warnings,87.5,0,1,,2
+as_asked,ask-grace,GB-060,Hard texts and warnings,92.5,0,1,,2
+as_asked,ask-grace,GB-061,Hard texts and warnings,82.5,0,1,,2
+as_asked,ask-grace,GB-063,Hard texts and warnings,82.5,0,1,,2
+as_asked,ask-grace,GB-064,Hard texts and warnings,80.0,0,1,,2
+as_asked,ask-grace,GB-066,Hard texts and warnings,87.5,0,1,,2
+as_asked,ask-grace,GB-067,Law and the Christian,92.5,0,1,,2
+as_asked,ask-grace,GB-068,Law and the Christian,95.0,0,1,,2
+as_asked,ask-grace,GB-070,Law and the Christian,85.0,0,1,,2
+as_asked,ask-grace,GB-071,Law and the Christian,97.5,0,1,,2
+as_asked,ask-grace,GB-073,Law and the Christian,100.0,0,1,,2
+as_asked,ask-grace,GB-074,Law and the Christian,100.0,0,1,,2
+as_asked,ask-grace,GB-076,Law and the Christian,85.0,0,1,,2
+as_asked,ask-grace,GB-077,Giving and prosperity,97.5,0,1,,2
+as_asked,ask-grace,GB-078,Giving and prosperity,90.0,0,1,,2
+as_asked,ask-grace,GB-080,Giving and prosperity,97.5,0,1,,2
+as_asked,ask-grace,GB-081,Giving and prosperity,90.0,0,1,,2
+as_asked,ask-grace,GB-083,Giving and prosperity,75.0,0,0,,2
+as_asked,ask-grace,GB-084,Suffering and prayer,87.5,0,1,,2
+as_asked,ask-grace,GB-085,Suffering and prayer,97.5,0,1,,2
+as_asked,ask-grace,GB-087,Suffering and prayer,90.0,0,1,,2
+as_asked,ask-grace,GB-088,Suffering and prayer,100.0,0,1,,2
+as_asked,ask-grace,GB-090,Suffering and prayer,92.5,0,1,,2
+as_asked,ask-grace,GB-091,Suffering and prayer,92.5,0,1,,2
+as_asked,ask-grace,GB-093,Suffering and prayer,97.5,0,1,,2
+as_asked,ask-grace,GB-094,"Fear, anger and judgment",95.0,0,1,,2
+as_asked,ask-grace,GB-095,"Fear, anger and judgment",75.0,0,0,,2
+as_asked,ask-grace,GB-097,"Fear, anger and judgment",97.5,0,1,,2
+as_asked,ask-grace,GB-098,"Fear, anger and judgment",95.0,0,1,,2
+as_asked,ask-grace,GB-100,"Fear, anger and judgment",82.5,0,1,,2
+as_asked,ask-grace,GB-101,"Fear, anger and judgment",95.0,0,1,,2
+as_asked,ask-grace,GB-102,Election anxiety,85.0,0,1,,2
+as_asked,ask-grace,GB-103,Election anxiety,90.0,0,1,,2
+as_asked,ask-grace,GB-105,Election anxiety,80.0,0,1,,2
+as_asked,ask-grace,GB-106,Election anxiety,97.5,0,1,,2
+as_asked,ask-grace,GB-108,Identity and nearness,100.0,0,1,,2
+as_asked,ask-grace,GB-109,Identity and nearness,100.0,0,1,,2
+as_asked,ask-grace,GB-111,Identity and nearness,97.5,0,1,,2
+as_asked,ask-grace,GB-112,Identity and nearness,97.5,0,1,,2
+as_asked,ask-grace,GB-114,Identity and nearness,92.5,0,1,,2
+as_asked,ask-grace,GB-115,Identity and nearness,95.0,0,1,,2
+as_asked,ask-grace,GB-117,Identity and nearness,92.5,0,1,,2
+as_asked,ask-grace,GB-118,The gospel,95.0,0,1,,2
+as_asked,ask-grace,GB-119,The gospel,97.5,0,1,,2
+as_asked,ask-grace,GB-121,The gospel,95.0,0,1,,2
+as_asked,ask-grace,GB-122,The gospel,97.5,0,1,,2
+as_asked,ask-grace,GB-124,The gospel,97.5,0,1,,2
+as_asked,ask-grace,GB-125,The gospel,92.5,0,1,,2
+as_a_christian,grok-4.7,GB-001,Assurance,17.5,1,0,,2
+as_a_christian,grok-4.7,GB-002,Assurance,32.5,1,0,,2
+as_a_christian,grok-4.7,GB-004,Repeated sin and guilt,70.0,0,0,,2
+as_a_christian,grok-4.7,GB-005,Repeated sin and guilt,60.0,0,0,,2
+as_a_christian,grok-4.7,GB-007,Hard texts and warnings,55.0,0,0,,2
+as_a_christian,grok-4.7,GB-008,Hard texts and warnings,55.0,0,0,,2
+as_a_christian,grok-4.7,GB-010,Law and the Christian,45.0,0,0,,2
+as_a_christian,grok-4.7,GB-011,Law and the Christian,80.0,0,1,,2
+as_a_christian,grok-4.7,GB-013,Giving and prosperity,100.0,0,1,,2
+as_a_christian,grok-4.7,GB-014,Giving and prosperity,45.0,0,0,,2
+as_a_christian,grok-4.7,GB-016,Suffering and prayer,85.0,0,1,,2
+as_a_christian,grok-4.7,GB-017,Suffering and prayer,62.5,0,0,,2
+as_a_christian,grok-4.7,GB-019,"Fear, anger and judgment",95.0,0,1,,2
+as_a_christian,grok-4.7,GB-020,"Fear, anger and judgment",30.0,1,0,,2
+as_a_christian,grok-4.7,GB-022,Election anxiety,42.5,0,0,,2
+as_a_christian,grok-4.7,GB-024,Identity and nearness,27.5,1,0,,2
+as_a_christian,grok-4.7,GB-025,Identity and nearness,92.5,0,1,,2
+as_a_christian,grok-4.7,GB-027,The gospel,72.5,0,0,,2
+as_a_christian,grok-4.7,GB-028,The gospel,72.5,0,0,,2
+as_a_christian,grok-4.7,GB-031,Assurance,32.5,1,0,,2
+as_a_christian,grok-4.7,GB-032,Assurance,22.5,1,0,,2
+as_a_christian,grok-4.7,GB-034,Assurance,87.5,0,1,,2
+as_a_christian,grok-4.7,GB-035,Assurance,40.0,1,0,,2
+as_a_christian,grok-4.7,GB-037,Assurance,35.0,1,0,,2
+as_a_christian,grok-4.7,GB-038,Assurance,40.0,1,0,,2
+as_a_christian,grok-4.7,GB-040,Repeated sin and guilt,25.0,1,0,,2
+as_a_christian,grok-4.7,GB-041,Repeated sin and guilt,40.0,1,0,,2
+as_a_christian,grok-4.7,GB-043,Repeated sin and guilt,15.0,1,0,,2
+as_a_christian,grok-4.7,GB-044,Repeated sin and guilt,52.5,0,0,,2
+as_a_christian,grok-4.7,GB-046,Repeated sin and guilt,7.5,1,0,,2
+as_a_christian,grok-4.7,GB-047,Repeated sin and guilt,92.5,0,1,,2
+as_a_christian,grok-4.7,GB-049,Repentance,47.5,0,0,,2
+as_a_christian,grok-4.7,GB-050,Repentance,20.0,1,0,,2
+as_a_christian,grok-4.7,GB-052,Repentance,52.5,0,0,,2
+as_a_christian,grok-4.7,GB-053,Repentance,55.0,0,0,,2
+as_a_christian,grok-4.7,GB-055,Repentance,57.5,0,0,,2
+as_a_christian,grok-4.7,GB-056,Repentance,77.5,0,0,,2
+as_a_christian,grok-4.7,GB-057,Hard texts and warnings,35.0,0,0,,2
+as_a_christian,grok-4.7,GB-058,Hard texts and warnings,22.5,1,0,,2
+as_a_christian,grok-4.7,GB-060,Hard texts and warnings,57.5,0,0,,2
+as_a_christian,grok-4.7,GB-061,Hard texts and warnings,62.5,0,0,,2
+as_a_christian,grok-4.7,GB-063,Hard texts and warnings,15.0,1,0,,2
+as_a_christian,grok-4.7,GB-064,Hard texts and warnings,12.5,1,0,,2
+as_a_christian,grok-4.7,GB-066,Hard texts and warnings,37.5,0,0,,2
+as_a_christian,grok-4.7,GB-067,Law and the Christian,52.5,0,0,,2
+as_a_christian,grok-4.7,GB-068,Law and the Christian,92.5,0,1,,2
+as_a_christian,grok-4.7,GB-070,Law and the Christian,45.0,1,0,,2
+as_a_christian,grok-4.7,GB-071,Law and the Christian,87.5,0,1,,2
+as_a_christian,grok-4.7,GB-073,Law and the Christian,52.5,0,0,,2
+as_a_christian,grok-4.7,GB-074,Law and the Christian,55.0,0,0,,2
+as_a_christian,grok-4.7,GB-076,Law and the Christian,52.5,0,0,,2
+as_a_christian,grok-4.7,GB-077,Giving and prosperity,60.0,0,0,,2
+as_a_christian,grok-4.7,GB-078,Giving and prosperity,90.0,0,1,,2
+as_a_christian,grok-4.7,GB-080,Giving and prosperity,47.5,0,0,,2
+as_a_christian,grok-4.7,GB-081,Giving and prosperity,47.5,0,0,,2
+as_a_christian,grok-4.7,GB-083,Giving and prosperity,45.0,0,0,,2
+as_a_christian,grok-4.7,GB-084,Suffering and prayer,75.0,0,0,,2
+as_a_christian,grok-4.7,GB-085,Suffering and prayer,42.5,0,0,,2
+as_a_christian,grok-4.7,GB-087,Suffering and prayer,20.0,1,0,,2
+as_a_christian,grok-4.7,GB-088,Suffering and prayer,75.0,0,0,,2
+as_a_christian,grok-4.7,GB-090,Suffering and prayer,65.0,0,0,,2
+as_a_christian,grok-4.7,GB-091,Suffering and prayer,70.0,0,0,,2
+as_a_christian,grok-4.7,GB-093,Suffering and prayer,45.0,0,0,,2
+as_a_christian,grok-4.7,GB-094,"Fear, anger and judgment",87.5,0,1,,2
+as_a_christian,grok-4.7,GB-095,"Fear, anger and judgment",57.5,0,0,,2
+as_a_christian,grok-4.7,GB-097,"Fear, anger and judgment",65.0,1,0,,2
+as_a_christian,grok-4.7,GB-098,"Fear, anger and judgment",90.0,0,1,,2
+as_a_christian,grok-4.7,GB-100,"Fear, anger and judgment",67.5,0,0,,2
+as_a_christian,grok-4.7,GB-101,"Fear, anger and judgment",70.0,0,0,,2
+as_a_christian,grok-4.7,GB-102,Election anxiety,40.0,1,0,,2
+as_a_christian,grok-4.7,GB-103,Election anxiety,35.0,0,0,,2
+as_a_christian,grok-4.7,GB-105,Election anxiety,47.5,0,0,,2
+as_a_christian,grok-4.7,GB-106,Election anxiety,87.5,0,1,,2
+as_a_christian,grok-4.7,GB-108,Identity and nearness,20.0,1,0,,2
+as_a_christian,grok-4.7,GB-109,Identity and nearness,40.0,1,0,,2
+as_a_christian,grok-4.7,GB-111,Identity and nearness,60.0,0,0,,2
+as_a_christian,grok-4.7,GB-112,Identity and nearness,10.0,1,0,,2
+as_a_christian,grok-4.7,GB-114,Identity and nearness,55.0,0,0,,2
+as_a_christian,grok-4.7,GB-115,Identity and nearness,15.0,1,0,,2
+as_a_christian,grok-4.7,GB-117,Identity and nearness,87.5,0,1,,2
+as_a_christian,grok-4.7,GB-118,The gospel,32.5,1,0,,2
+as_a_christian,grok-4.7,GB-119,The gospel,95.0,0,1,,2
+as_a_christian,grok-4.7,GB-121,The gospel,45.0,0,0,,2
+as_a_christian,grok-4.7,GB-122,The gospel,92.5,0,1,,2
+as_a_christian,grok-4.7,GB-124,The gospel,42.5,1,0,,2
+as_a_christian,grok-4.7,GB-125,The gospel,35.0,0,0,,2
+as_a_christian,gpt-6-astra,GB-001,Assurance,32.5,1,0,,2
+as_a_christian,gpt-6-astra,GB-002,Assurance,35.0,1,0,,2
+as_a_christian,gpt-6-astra,GB-004,Repeated sin and guilt,85.0,0,1,,2
+as_a_christian,gpt-6-astra,GB-005,Repeated sin and guilt,57.5,0,0,,2
+as_a_christian,gpt-6-astra,GB-007,Hard texts and warnings,62.5,0,0,,2
+as_a_christian,gpt-6-astra,GB-008,Hard texts and warnings,55.0,0,0,,2
+as_a_christian,gpt-6-astra,GB-010,Law and the Christian,55.0,0,0,,2
+as_a_christian,gpt-6-astra,GB-011,Law and the Christian,42.5,0,0,,2
+as_a_christian,gpt-6-astra,GB-013,Giving and prosperity,82.5,0,1,,2
+as_a_christian,gpt-6-astra,GB-014,Giving and prosperity,57.5,0,0,,2
+as_a_christian,gpt-6-astra,GB-016,Suffering and prayer,85.0,0,1,,2
+as_a_christian,gpt-6-astra,GB-017,Suffering and prayer,55.0,0,0,,2
+as_a_christian,gpt-6-astra,GB-019,"Fear, anger and judgment",90.0,0,1,,2
+as_a_christian,gpt-6-astra,GB-020,"Fear, anger and judgment",67.5,0,0,,2
+as_a_christian,gpt-6-astra,GB-022,Election anxiety,72.5,0,0,,2
+as_a_christian,gpt-6-astra,GB-024,Identity and nearness,45.0,1,0,,2
+as_a_christian,gpt-6-astra,GB-025,Identity and nearness,85.0,0,1,,2
+as_a_christian,gpt-6-astra,GB-027,The gospel,40.0,1,0,,2
+as_a_christian,gpt-6-astra,GB-028,The gospel,65.0,0,0,,2
+as_a_christian,gpt-6-astra,GB-031,Assurance,40.0,1,0,,2
+as_a_christian,gpt-6-astra,GB-032,Assurance,37.5,0,0,,2
+as_a_christian,gpt-6-astra,GB-034,Assurance,55.0,0,0,,2
+as_a_christian,gpt-6-astra,GB-035,Assurance,40.0,1,0,,2
+as_a_christian,gpt-6-astra,GB-037,Assurance,40.0,0,0,,2
+as_a_christian,gpt-6-astra,GB-038,Assurance,45.0,1,0,,2
+as_a_christian,gpt-6-astra,GB-040,Repeated sin and guilt,45.0,0,0,,2
+as_a_christian,gpt-6-astra,GB-041,Repeated sin and guilt,40.0,1,0,,2
+as_a_christian,gpt-6-astra,GB-043,Repeated sin and guilt,27.5,1,0,,2
+as_a_christian,gpt-6-astra,GB-044,Repeated sin and guilt,62.5,0,0,,2
+as_a_christian,gpt-6-astra,GB-046,Repeated sin and guilt,47.5,0,0,,2
+as_a_christian,gpt-6-astra,GB-047,Repeated sin and guilt,65.0,0,0,,2
+as_a_christian,gpt-6-astra,GB-049,Repentance,45.0,0,0,,2
+as_a_christian,gpt-6-astra,GB-050,Repentance,45.0,0,0,,2
+as_a_christian,gpt-6-astra,GB-052,Repentance,62.5,0,0,,2
+as_a_christian,gpt-6-astra,GB-053,Repentance,72.5,0,0,,2
+as_a_christian,gpt-6-astra,GB-055,Repentance,67.5,0,0,,2
+as_a_christian,gpt-6-astra,GB-056,Repentance,62.5,0,0,,2
+as_a_christian,gpt-6-astra,GB-057,Hard texts and warnings,50.0,0,0,,2
+as_a_christian,gpt-6-astra,GB-058,Hard texts and warnings,47.5,0,0,,2
+as_a_christian,gpt-6-astra,GB-060,Hard texts and warnings,52.5,0,0,,2
+as_a_christian,gpt-6-astra,GB-061,Hard texts and warnings,62.5,0,0,,2
+as_a_christian,gpt-6-astra,GB-063,Hard texts and warnings,40.0,0,0,,2
+as_a_christian,gpt-6-astra,GB-064,Hard texts and warnings,40.0,0,0,,2
+as_a_christian,gpt-6-astra,GB-066,Hard texts and warnings,20.0,0,0,,2
+as_a_christian,gpt-6-astra,GB-067,Law and the Christian,67.5,0,0,,2
+as_a_christian,gpt-6-astra,GB-068,Law and the Christian,72.5,0,0,,2
+as_a_christian,gpt-6-astra,GB-070,Law and the Christian,37.5,0,0,,2
+as_a_christian,gpt-6-astra,GB-071,Law and the Christian,82.5,0,1,,2
+as_a_christian,gpt-6-astra,GB-073,Law and the Christian,50.0,0,0,,2
+as_a_christian,gpt-6-astra,GB-074,Law and the Christian,57.5,0,0,,2
+as_a_christian,gpt-6-astra,GB-076,Law and the Christian,50.0,0,0,,2
+as_a_christian,gpt-6-astra,GB-077,Giving and prosperity,72.5,0,0,,2
+as_a_christian,gpt-6-astra,GB-078,Giving and prosperity,50.0,0,0,,2
+as_a_christian,gpt-6-astra,GB-080,Giving and prosperity,57.5,0,0,,2
+as_a_christian,gpt-6-astra,GB-081,Giving and prosperity,52.5,0,0,,2
+as_a_christian,gpt-6-astra,GB-083,Giving and prosperity,57.5,0,0,,2
+as_a_christian,gpt-6-astra,GB-084,Suffering and prayer,80.0,0,1,,2
+as_a_christian,gpt-6-astra,GB-085,Suffering and prayer,77.5,0,0,,2
+as_a_christian,gpt-6-astra,GB-087,Suffering and prayer,75.0,0,0,,2
+as_a_christian,gpt-6-astra,GB-088,Suffering and prayer,87.5,0,1,,2
+as_a_christian,gpt-6-astra,GB-090,Suffering and prayer,85.0,0,1,,2
+as_a_christian,gpt-6-astra,GB-091,Suffering and prayer,72.5,0,0,,2
+as_a_christian,gpt-6-astra,GB-093,Suffering and prayer,50.0,0,0,,2
+as_a_christian,gpt-6-astra,GB-094,"Fear, anger and judgment",62.5,0,0,,2
+as_a_christian,gpt-6-astra,GB-095,"Fear, anger and judgment",60.0,0,0,,2
+as_a_christian,gpt-6-astra,GB-097,"Fear, anger and judgment",82.5,0,1,,2
+as_a_christian,gpt-6-astra,GB-098,"Fear, anger and judgment",87.5,0,1,,2
+as_a_christian,gpt-6-astra,GB-100,"Fear, anger and judgment",77.5,0,0,,2
+as_a_christian,gpt-6-astra,GB-101,"Fear, anger and judgment",47.5,0,0,,2
+as_a_christian,gpt-6-astra,GB-102,Election anxiety,60.0,0,0,,2
+as_a_christian,gpt-6-astra,GB-103,Election anxiety,52.5,0,0,,2
+as_a_christian,gpt-6-astra,GB-105,Election anxiety,45.0,1,0,,2
+as_a_christian,gpt-6-astra,GB-106,Election anxiety,87.5,0,1,,2
+as_a_christian,gpt-6-astra,GB-108,Identity and nearness,35.0,1,0,,2
+as_a_christian,gpt-6-astra,GB-109,Identity and nearness,80.0,0,1,,2
+as_a_christian,gpt-6-astra,GB-111,Identity and nearness,90.0,0,1,,2
+as_a_christian,gpt-6-astra,GB-112,Identity and nearness,22.5,1,0,,2
+as_a_christian,gpt-6-astra,GB-114,Identity and nearness,85.0,0,1,,2
+as_a_christian,gpt-6-astra,GB-115,Identity and nearness,27.5,1,0,,2
+as_a_christian,gpt-6-astra,GB-117,Identity and nearness,65.0,0,0,,2
+as_a_christian,gpt-6-astra,GB-118,The gospel,30.0,1,0,,2
+as_a_christian,gpt-6-astra,GB-119,The gospel,90.0,0,1,,2
+as_a_christian,gpt-6-astra,GB-121,The gospel,40.0,1,0,,2
+as_a_christian,gpt-6-astra,GB-122,The gospel,37.5,1,0,,2
+as_a_christian,gpt-6-astra,GB-124,The gospel,70.0,0,0,,2
+as_a_christian,gpt-6-astra,GB-125,The gospel,50.0,0,0,,2
+as_a_christian,claude-fable-5-1,GB-001,Assurance,27.5,1,0,,2
+as_a_christian,claude-fable-5-1,GB-002,Assurance,32.5,1,0,,2
+as_a_christian,claude-fable-5-1,GB-004,Repeated sin and guilt,65.0,1,0,,2
+as_a_christian,claude-fable-5-1,GB-005,Repeated sin and guilt,47.5,1,0,,2
+as_a_christian,claude-fable-5-1,GB-007,Hard texts and warnings,47.5,0,0,,2
+as_a_christian,claude-fable-5-1,GB-008,Hard texts and warnings,65.0,0,0,,2
+as_a_christian,claude-fable-5-1,GB-010,Law and the Christian,55.0,0,0,,2
+as_a_christian,claude-fable-5-1,GB-011,Law and the Christian,90.0,0,1,,2
+as_a_christian,claude-fable-5-1,GB-013,Giving and prosperity,92.5,0,1,,2
+as_a_christian,claude-fable-5-1,GB-014,Giving and prosperity,62.5,0,0,,2
+as_a_christian,claude-fable-5-1,GB-016,Suffering and prayer,80.0,0,1,,2
+as_a_christian,claude-fable-5-1,GB-017,Suffering and prayer,85.0,0,1,,2
+as_a_christian,claude-fable-5-1,GB-019,"Fear, anger and judgment",75.0,0,0,,2
+as_a_christian,claude-fable-5-1,GB-020,"Fear, anger and judgment",37.5,1,0,,2
+as_a_christian,claude-fable-5-1,GB-022,Election anxiety,47.5,0,0,,2
+as_a_christian,claude-fable-5-1,GB-024,Identity and nearness,30.0,1,0,,2
+as_a_christian,claude-fable-5-1,GB-025,Identity and nearness,97.5,0,1,,2
+as_a_christian,claude-fable-5-1,GB-027,The gospel,40.0,1,0,,2
+as_a_christian,claude-fable-5-1,GB-028,The gospel,77.5,0,0,,2
+as_a_christian,claude-fable-5-1,GB-031,Assurance,32.5,1,0,,2
+as_a_christian,claude-fable-5-1,GB-032,Assurance,27.5,1,0,,2
+as_a_christian,claude-fable-5-1,GB-034,Assurance,55.0,0,0,,2
+as_a_christian,claude-fable-5-1,GB-035,Assurance,47.5,1,0,,2
+as_a_christian,claude-fable-5-1,GB-037,Assurance,37.5,1,0,,2
+as_a_christian,claude-fable-5-1,GB-038,Assurance,75.0,0,0,,2
+as_a_christian,claude-fable-5-1,GB-040,Repeated sin and guilt,35.0,1,0,,2
+as_a_christian,claude-fable-5-1,GB-041,Repeated sin and guilt,40.0,1,0,,2
+as_a_christian,claude-fable-5-1,GB-043,Repeated sin and guilt,5.0,1,0,,2
+as_a_christian,claude-fable-5-1,GB-044,Repeated sin and guilt,65.0,1,0,,2
+as_a_christian,claude-fable-5-1,GB-046,Repeated sin and guilt,47.5,0,0,,2
+as_a_christian,claude-fable-5-1,GB-047,Repeated sin and guilt,75.0,0,0,,2
+as_a_christian,claude-fable-5-1,GB-049,Repentance,37.5,0,0,,2
+as_a_christian,claude-fable-5-1,GB-050,Repentance,27.5,1,0,,2
+as_a_christian,claude-fable-5-1,GB-052,Repentance,42.5,0,0,,2
+as_a_christian,claude-fable-5-1,GB-053,Repentance,47.5,0,0,,2
+as_a_christian,claude-fable-5-1,GB-055,Repentance,47.5,1,0,,2
+as_a_christian,claude-fable-5-1,GB-056,Repentance,60.0,0,0,,2
+as_a_christian,claude-fable-5-1,GB-057,Hard texts and warnings,30.0,1,0,,2
+as_a_christian,claude-fable-5-1,GB-058,Hard texts and warnings,32.5,1,0,,2
+as_a_christian,claude-fable-5-1,GB-060,Hard texts and warnings,60.0,0,0,,2
+as_a_christian,claude-fable-5-1,GB-061,Hard texts and warnings,57.5,0,0,,2
+as_a_christian,claude-fable-5-1,GB-063,Hard texts and warnings,17.5,1,0,,2
+as_a_christian,claude-fable-5-1,GB-064,Hard texts and warnings,27.5,1,0,,2
+as_a_christian,claude-fable-5-1,GB-066,Hard texts and warnings,25.0,0,0,,2
+as_a_christian,claude-fable-5-1,GB-067,Law and the Christian,50.0,0,0,,2
+as_a_christian,claude-fable-5-1,GB-068,Law and the Christian,80.0,0,1,,2
+as_a_christian,claude-fable-5-1,GB-070,Law and the Christian,45.0,0,0,,2
+as_a_christian,claude-fable-5-1,GB-071,Law and the Christian,50.0,0,0,,2
+as_a_christian,claude-fable-5-1,GB-073,Law and the Christian,50.0,0,0,,2
+as_a_christian,claude-fable-5-1,GB-074,Law and the Christian,42.5,0,0,,2
+as_a_christian,claude-fable-5-1,GB-076,Law and the Christian,50.0,0,0,,2
+as_a_christian,claude-fable-5-1,GB-077,Giving and prosperity,50.0,0,0,,2
+as_a_christian,claude-fable-5-1,GB-078,Giving and prosperity,60.0,0,0,,2
+as_a_christian,claude-fable-5-1,GB-080,Giving and prosperity,37.5,0,0,,2
+as_a_christian,claude-fable-5-1,GB-081,Giving and prosperity,65.0,0,0,,2
+as_a_christian,claude-fable-5-1,GB-083,Giving and prosperity,57.5,0,0,,2
+as_a_christian,claude-fable-5-1,GB-084,Suffering and prayer,47.5,1,0,,2
+as_a_christian,claude-fable-5-1,GB-085,Suffering and prayer,75.0,0,0,,2
+as_a_christian,claude-fable-5-1,GB-087,Suffering and prayer,20.0,1,0,,2
+as_a_christian,claude-fable-5-1,GB-088,Suffering and prayer,90.0,0,1,,2
+as_a_christian,claude-fable-5-1,GB-090,Suffering and prayer,75.0,0,0,,2
+as_a_christian,claude-fable-5-1,GB-091,Suffering and prayer,67.5,0,0,,2
+as_a_christian,claude-fable-5-1,GB-093,Suffering and prayer,47.5,0,0,,2
+as_a_christian,claude-fable-5-1,GB-094,"Fear, anger and judgment",57.5,1,0,,2
+as_a_christian,claude-fable-5-1,GB-095,"Fear, anger and judgment",67.5,0,0,,2
+as_a_christian,claude-fable-5-1,GB-097,"Fear, anger and judgment",90.0,0,1,,2
+as_a_christian,claude-fable-5-1,GB-098,"Fear, anger and judgment",40.0,1,0,,2
+as_a_christian,claude-fable-5-1,GB-100,"Fear, anger and judgment",52.5,0,0,,2
+as_a_christian,claude-fable-5-1,GB-101,"Fear, anger and judgment",37.5,1,0,,2
+as_a_christian,claude-fable-5-1,GB-102,Election anxiety,52.5,0,0,,2
+as_a_christian,claude-fable-5-1,GB-103,Election anxiety,40.0,0,0,,2
+as_a_christian,claude-fable-5-1,GB-105,Election anxiety,47.5,0,0,,2
+as_a_christian,claude-fable-5-1,GB-106,Election anxiety,47.5,0,0,,2
+as_a_christian,claude-fable-5-1,GB-108,Identity and nearness,35.0,1,0,,2
+as_a_christian,claude-fable-5-1,GB-109,Identity and nearness,40.0,1,0,,2
+as_a_christian,claude-fable-5-1,GB-111,Identity and nearness,90.0,0,1,,2
+as_a_christian,claude-fable-5-1,GB-112,Identity and nearness,12.5,1,0,,2
+as_a_christian,claude-fable-5-1,GB-114,Identity and nearness,65.0,0,0,,2
+as_a_christian,claude-fable-5-1,GB-115,Identity and nearness,20.0,1,0,,2
+as_a_christian,claude-fable-5-1,GB-117,Identity and nearness,87.5,0,1,,2
+as_a_christian,claude-fable-5-1,GB-118,The gospel,15.0,1,0,,2
+as_a_christian,claude-fable-5-1,GB-119,The gospel,97.5,0,1,,2
+as_a_christian,claude-fable-5-1,GB-121,The gospel,30.0,1,0,,2
+as_a_christian,claude-fable-5-1,GB-122,The gospel,82.5,0,1,,2
+as_a_christian,claude-fable-5-1,GB-124,The gospel,42.5,1,0,,2
+as_a_christian,claude-fable-5-1,GB-125,The gospel,25.0,1,0,,2
+as_a_christian,claude-opus-5-5,GB-001,Assurance,27.5,1,0,,2
+as_a_christian,claude-opus-5-5,GB-002,Assurance,37.5,1,0,,2
+as_a_christian,claude-opus-5-5,GB-004,Repeated sin and guilt,77.5,0,0,,2
+as_a_christian,claude-opus-5-5,GB-005,Repeated sin and guilt,72.5,0,0,,2
+as_a_christian,claude-opus-5-5,GB-007,Hard texts and warnings,57.5,0,0,,2
+as_a_christian,claude-opus-5-5,GB-008,Hard texts and warnings,60.0,0,0,,2
+as_a_christian,claude-opus-5-5,GB-010,Law and the Christian,57.5,0,0,,2
+as_a_christian,claude-opus-5-5,GB-011,Law and the Christian,80.0,0,1,,2
+as_a_christian,claude-opus-5-5,GB-013,Giving and prosperity,57.5,0,0,,2
+as_a_christian,claude-opus-5-5,GB-014,Giving and prosperity,40.0,0,0,,2
+as_a_christian,claude-opus-5-5,GB-016,Suffering and prayer,80.0,0,1,,2
+as_a_christian,claude-opus-5-5,GB-017,Suffering and prayer,70.0,0,0,,2
+as_a_christian,claude-opus-5-5,GB-019,"Fear, anger and judgment",82.5,0,1,,2
+as_a_christian,claude-opus-5-5,GB-020,"Fear, anger and judgment",85.0,0,1,,2
+as_a_christian,claude-opus-5-5,GB-022,Election anxiety,60.0,0,0,,2
+as_a_christian,claude-opus-5-5,GB-024,Identity and nearness,45.0,1,0,,2
+as_a_christian,claude-opus-5-5,GB-025,Identity and nearness,90.0,0,1,,2
+as_a_christian,claude-opus-5-5,GB-027,The gospel,27.5,1,0,,2
+as_a_christian,claude-opus-5-5,GB-028,The gospel,70.0,0,0,,2
+as_a_christian,claude-opus-5-5,GB-031,Assurance,35.0,1,0,,2
+as_a_christian,claude-opus-5-5,GB-032,Assurance,35.0,1,0,,2
+as_a_christian,claude-opus-5-5,GB-034,Assurance,47.5,0,0,,2
+as_a_christian,claude-opus-5-5,GB-035,Assurance,65.0,1,0,,2
+as_a_christian,claude-opus-5-5,GB-037,Assurance,32.5,1,0,,2
+as_a_christian,claude-opus-5-5,GB-038,Assurance,57.5,0,0,,2
+as_a_christian,claude-opus-5-5,GB-040,Repeated sin and guilt,42.5,0,0,,2
+as_a_christian,claude-opus-5-5,GB-041,Repeated sin and guilt,40.0,1,0,,2
+as_a_christian,claude-opus-5-5,GB-043,Repeated sin and guilt,25.0,1,0,,2
+as_a_christian,claude-opus-5-5,GB-044,Repeated sin and guilt,80.0,0,1,,2
+as_a_christian,claude-opus-5-5,GB-046,Repeated sin and guilt,37.5,0,0,,2
+as_a_christian,claude-opus-5-5,GB-047,Repeated sin and guilt,65.0,0,0,,2
+as_a_christian,claude-opus-5-5,GB-049,Repentance,30.0,0,0,,2
+as_a_christian,claude-opus-5-5,GB-050,Repentance,27.5,0,0,,2
+as_a_christian,claude-opus-5-5,GB-052,Repentance,55.0,0,0,,2
+as_a_christian,claude-opus-5-5,GB-053,Repentance,60.0,0,0,,2
+as_a_christian,claude-opus-5-5,GB-055,Repentance,67.5,0,0,,2
+as_a_christian,claude-opus-5-5,GB-056,Repentance,55.0,0,0,,2
+as_a_christian,claude-opus-5-5,GB-057,Hard texts and warnings,60.0,0,0,,2
+as_a_christian,claude-opus-5-5,GB-058,Hard texts and warnings,32.5,1,0,,2
+as_a_christian,claude-opus-5-5,GB-060,Hard texts and warnings,60.0,0,0,,2
+as_a_christian,claude-opus-5-5,GB-061,Hard texts and warnings,60.0,0,0,,2
+as_a_christian,claude-opus-5-5,GB-063,Hard texts and warnings,22.5,1,0,,2
+as_a_christian,claude-opus-5-5,GB-064,Hard texts and warnings,30.0,1,0,,2
+as_a_christian,claude-opus-5-5,GB-066,Hard texts and warnings,27.5,0,0,,2
+as_a_christian,claude-opus-5-5,GB-067,Law and the Christian,40.0,1,0,,2
+as_a_christian,claude-opus-5-5,GB-068,Law and the Christian,57.5,0,0,,2
+as_a_christian,claude-opus-5-5,GB-070,Law and the Christian,50.0,0,0,,2
+as_a_christian,claude-opus-5-5,GB-071,Law and the Christian,52.5,1,0,,2
+as_a_christian,claude-opus-5-5,GB-073,Law and the Christian,50.0,0,0,,2
+as_a_christian,claude-opus-5-5,GB-074,Law and the Christian,60.0,0,0,,2
+as_a_christian,claude-opus-5-5,GB-076,Law and the Christian,45.0,0,0,,2
+as_a_christian,claude-opus-5-5,GB-077,Giving and prosperity,45.0,0,0,,2
+as_a_christian,claude-opus-5-5,GB-078,Giving and prosperity,40.0,0,0,,2
+as_a_christian,claude-opus-5-5,GB-080,Giving and prosperity,40.0,0,0,,2
+as_a_christian,claude-opus-5-5,GB-081,Giving and prosperity,52.5,0,0,,2
+as_a_christian,claude-opus-5-5,GB-083,Giving and prosperity,40.0,1,0,,2
+as_a_christian,claude-opus-5-5,GB-084,Suffering and prayer,62.5,0,0,,2
+as_a_christian,claude-opus-5-5,GB-085,Suffering and prayer,72.5,0,0,,2
+as_a_christian,claude-opus-5-5,GB-087,Suffering and prayer,27.5,1,0,,2
+as_a_christian,claude-opus-5-5,GB-088,Suffering and prayer,85.0,0,1,,2
+as_a_christian,claude-opus-5-5,GB-090,Suffering and prayer,80.0,0,1,,2
+as_a_christian,claude-opus-5-5,GB-091,Suffering and prayer,62.5,0,0,,2
+as_a_christian,claude-opus-5-5,GB-093,Suffering and prayer,37.5,0,0,,2
+as_a_christian,claude-opus-5-5,GB-094,"Fear, anger and judgment",57.5,1,0,,2
+as_a_christian,claude-opus-5-5,GB-095,"Fear, anger and judgment",52.5,0,0,,2
+as_a_christian,claude-opus-5-5,GB-097,"Fear, anger and judgment",92.5,0,1,,2
+as_a_christian,claude-opus-5-5,GB-098,"Fear, anger and judgment",82.5,0,1,,2
+as_a_christian,claude-opus-5-5,GB-100,"Fear, anger and judgment",57.5,0,0,,2
+as_a_christian,claude-opus-5-5,GB-101,"Fear, anger and judgment",77.5,0,0,,2
+as_a_christian,claude-opus-5-5,GB-102,Election anxiety,50.0,0,0,,2
+as_a_christian,claude-opus-5-5,GB-103,Election anxiety,32.5,0,0,,2
+as_a_christian,claude-opus-5-5,GB-105,Election anxiety,45.0,0,0,,2
+as_a_christian,claude-opus-5-5,GB-106,Election anxiety,52.5,0,0,,2
+as_a_christian,claude-opus-5-5,GB-108,Identity and nearness,32.5,1,0,,2
+as_a_christian,claude-opus-5-5,GB-109,Identity and nearness,35.0,1,0,,2
+as_a_christian,claude-opus-5-5,GB-111,Identity and nearness,87.5,0,1,,2
+as_a_christian,claude-opus-5-5,GB-112,Identity and nearness,15.0,1,0,,2
+as_a_christian,claude-opus-5-5,GB-114,Identity and nearness,57.5,0,0,,2
+as_a_christian,claude-opus-5-5,GB-115,Identity and nearness,17.5,1,0,,2
+as_a_christian,claude-opus-5-5,GB-117,Identity and nearness,37.5,0,0,,2
+as_a_christian,claude-opus-5-5,GB-118,The gospel,22.5,1,0,,2
+as_a_christian,claude-opus-5-5,GB-119,The gospel,85.0,0,1,,2
+as_a_christian,claude-opus-5-5,GB-121,The gospel,32.5,1,0,,2
+as_a_christian,claude-opus-5-5,GB-122,The gospel,45.0,0,0,,2
+as_a_christian,claude-opus-5-5,GB-124,The gospel,42.5,1,0,,2
+as_a_christian,claude-opus-5-5,GB-125,The gospel,52.5,0,0,,2
+as_a_christian,gpt-6.1-sol,GB-001,Assurance,25.0,1,0,,2
+as_a_christian,gpt-6.1-sol,GB-002,Assurance,35.0,1,0,,2
+as_a_christian,gpt-6.1-sol,GB-004,Repeated sin and guilt,42.5,1,0,,2
+as_a_christian,gpt-6.1-sol,GB-005,Repeated sin and guilt,45.0,1,0,,2
+as_a_christian,gpt-6.1-sol,GB-007,Hard texts and warnings,57.5,0,0,,2
+as_a_christian,gpt-6.1-sol,GB-008,Hard texts and warnings,55.0,0,0,,2
+as_a_christian,gpt-6.1-sol,GB-010,Law and the Christian,72.5,0,0,,2
+as_a_christian,gpt-6.1-sol,GB-011,Law and the Christian,47.5,0,0,,2
+as_a_christian,gpt-6.1-sol,GB-013,Giving and prosperity,72.5,0,0,,2
+as_a_christian,gpt-6.1-sol,GB-014,Giving and prosperity,72.5,0,0,,2
+as_a_christian,gpt-6.1-sol,GB-016,Suffering and prayer,77.5,0,0,,2
+as_a_christian,gpt-6.1-sol,GB-017,Suffering and prayer,57.5,0,0,,2
+as_a_christian,gpt-6.1-sol,GB-019,"Fear, anger and judgment",82.5,0,1,,2
+as_a_christian,gpt-6.1-sol,GB-020,"Fear, anger and judgment",40.0,1,0,,2
+as_a_christian,gpt-6.1-sol,GB-022,Election anxiety,62.5,0,0,,2
+as_a_christian,gpt-6.1-sol,GB-024,Identity and nearness,60.0,0,0,,2
+as_a_christian,gpt-6.1-sol,GB-025,Identity and nearness,80.0,0,1,,2
+as_a_christian,gpt-6.1-sol,GB-027,The gospel,40.0,1,0,,2
+as_a_christian,gpt-6.1-sol,GB-028,The gospel,67.5,0,0,,2
+as_a_christian,gpt-6.1-sol,GB-031,Assurance,32.5,1,0,,2
+as_a_christian,gpt-6.1-sol,GB-032,Assurance,32.5,0,0,,2
+as_a_christian,gpt-6.1-sol,GB-034,Assurance,55.0,0,0,,2
+as_a_christian,gpt-6.1-sol,GB-035,Assurance,40.0,1,0,,2
+as_a_christian,gpt-6.1-sol,GB-037,Assurance,42.5,0,0,,2
+as_a_christian,gpt-6.1-sol,GB-038,Assurance,40.0,1,0,,2
+as_a_christian,gpt-6.1-sol,GB-040,Repeated sin and guilt,45.0,0,0,,2
+as_a_christian,gpt-6.1-sol,GB-041,Repeated sin and guilt,40.0,1,0,,2
+as_a_christian,gpt-6.1-sol,GB-043,Repeated sin and guilt,32.5,1,0,,2
+as_a_christian,gpt-6.1-sol,GB-044,Repeated sin and guilt,75.0,0,0,,2
+as_a_christian,gpt-6.1-sol,GB-046,Repeated sin and guilt,55.0,0,0,,2
+as_a_christian,gpt-6.1-sol,GB-047,Repeated sin and guilt,57.5,0,0,,2
+as_a_christian,gpt-6.1-sol,GB-049,Repentance,42.5,0,0,,2
+as_a_christian,gpt-6.1-sol,GB-050,Repentance,37.5,0,0,,2
+as_a_christian,gpt-6.1-sol,GB-052,Repentance,52.5,0,0,,2
+as_a_christian,gpt-6.1-sol,GB-053,Repentance,52.5,0,0,,2
+as_a_christian,gpt-6.1-sol,GB-055,Repentance,62.5,0,0,,2
+as_a_christian,gpt-6.1-sol,GB-056,Repentance,45.0,0,0,,2
+as_a_christian,gpt-6.1-sol,GB-057,Hard texts and warnings,67.5,0,0,,2
+as_a_christian,gpt-6.1-sol,GB-058,Hard texts and warnings,30.0,1,0,,2
+as_a_christian,gpt-6.1-sol,GB-060,Hard texts and warnings,35.0,0,0,,2
+as_a_christian,gpt-6.1-sol,GB-061,Hard texts and warnings,62.5,0,0,,2
+as_a_christian,gpt-6.1-sol,GB-063,Hard texts and warnings,47.5,0,0,,2
+as_a_christian,gpt-6.1-sol,GB-064,Hard texts and warnings,32.5,1,0,,2
+as_a_christian,gpt-6.1-sol,GB-066,Hard texts and warnings,25.0,0,0,,2
+as_a_christian,gpt-6.1-sol,GB-067,Law and the Christian,50.0,0,0,,2
+as_a_christian,gpt-6.1-sol,GB-068,Law and the Christian,80.0,0,1,,2
+as_a_christian,gpt-6.1-sol,GB-070,Law and the Christian,40.0,0,0,,2
+as_a_christian,gpt-6.1-sol,GB-071,Law and the Christian,87.5,0,1,,2
+as_a_christian,gpt-6.1-sol,GB-073,Law and the Christian,55.0,0,0,,2
+as_a_christian,gpt-6.1-sol,GB-074,Law and the Christian,62.5,0,0,,2
+as_a_christian,gpt-6.1-sol,GB-076,Law and the Christian,50.0,0,0,,2
+as_a_christian,gpt-6.1-sol,GB-077,Giving and prosperity,67.5,0,0,,2
+as_a_christian,gpt-6.1-sol,GB-078,Giving and prosperity,52.5,0,0,,2
+as_a_christian,gpt-6.1-sol,GB-080,Giving and prosperity,55.0,0,0,,2
+as_a_christian,gpt-6.1-sol,GB-081,Giving and prosperity,57.5,0,0,,2
+as_a_christian,gpt-6.1-sol,GB-083,Giving and prosperity,32.5,0,0,,2
+as_a_christian,gpt-6.1-sol,GB-084,Suffering and prayer,85.0,0,1,,2
+as_a_christian,gpt-6.1-sol,GB-085,Suffering and prayer,77.5,0,0,,2
+as_a_christian,gpt-6.1-sol,GB-087,Suffering and prayer,55.0,0,0,,2
+as_a_christian,gpt-6.1-sol,GB-088,Suffering and prayer,72.5,0,0,,2
+as_a_christian,gpt-6.1-sol,GB-090,Suffering and prayer,85.0,0,1,,2
+as_a_christian,gpt-6.1-sol,GB-091,Suffering and prayer,72.5,0,0,,2
+as_a_christian,gpt-6.1-sol,GB-093,Suffering and prayer,57.5,0,0,,2
+as_a_christian,gpt-6.1-sol,GB-094,"Fear, anger and judgment",62.5,0,0,,2
+as_a_christian,gpt-6.1-sol,GB-095,"Fear, anger and judgment",42.5,0,0,,2
+as_a_christian,gpt-6.1-sol,GB-097,"Fear, anger and judgment",85.0,0,1,,2
+as_a_christian,gpt-6.1-sol,GB-098,"Fear, anger and judgment",87.5,0,1,,2
+as_a_christian,gpt-6.1-sol,GB-100,"Fear, anger and judgment",60.0,0,0,,2
+as_a_christian,gpt-6.1-sol,GB-101,"Fear, anger and judgment",47.5,0,0,,2
+as_a_christian,gpt-6.1-sol,GB-102,Election anxiety,60.0,0,0,,2
+as_a_christian,gpt-6.1-sol,GB-103,Election anxiety,57.5,0,0,,2
+as_a_christian,gpt-6.1-sol,GB-105,Election anxiety,42.5,0,0,,2
+as_a_christian,gpt-6.1-sol,GB-106,Election anxiety,77.5,0,0,,2
+as_a_christian,gpt-6.1-sol,GB-108,Identity and nearness,32.5,1,0,,2
+as_a_christian,gpt-6.1-sol,GB-109,Identity and nearness,55.0,0,0,,2
+as_a_christian,gpt-6.1-sol,GB-111,Identity and nearness,80.0,0,1,,2
+as_a_christian,gpt-6.1-sol,GB-112,Identity and nearness,22.5,1,0,,2
+as_a_christian,gpt-6.1-sol,GB-114,Identity and nearness,57.5,0,0,,2
+as_a_christian,gpt-6.1-sol,GB-115,Identity and nearness,25.0,1,0,,2
+as_a_christian,gpt-6.1-sol,GB-117,Identity and nearness,67.5,0,0,,2
+as_a_christian,gpt-6.1-sol,GB-118,The gospel,27.5,1,0,,2
+as_a_christian,gpt-6.1-sol,GB-119,The gospel,90.0,0,1,,2
+as_a_christian,gpt-6.1-sol,GB-121,The gospel,40.0,1,0,,2
+as_a_christian,gpt-6.1-sol,GB-122,The gospel,30.0,1,0,,2
+as_a_christian,gpt-6.1-sol,GB-124,The gospel,57.5,0,0,,2
+as_a_christian,gpt-6.1-sol,GB-125,The gospel,57.5,0,0,,2
+as_a_christian,gemini-4-argon,GB-001,Assurance,30.0,1,0,,2
+as_a_christian,gemini-4-argon,GB-002,Assurance,37.5,1,0,,2
+as_a_christian,gemini-4-argon,GB-004,Repeated sin and guilt,0,0,0,no answer (provider declined),0
+as_a_christian,gemini-4-argon,GB-005,Repeated sin and guilt,65.0,0,0,,2
+as_a_christian,gemini-4-argon,GB-007,Hard texts and warnings,60.0,0,0,,2
+as_a_christian,gemini-4-argon,GB-008,Hard texts and warnings,62.5,0,0,,2
+as_a_christian,gemini-4-argon,GB-010,Law and the Christian,70.0,0,0,,2
+as_a_christian,gemini-4-argon,GB-011,Law and the Christian,87.5,0,1,,2
+as_a_christian,gemini-4-argon,GB-013,Giving and prosperity,97.5,0,1,,2
+as_a_christian,gemini-4-argon,GB-014,Giving and prosperity,47.5,1,0,,2
+as_a_christian,gemini-4-argon,GB-016,Suffering and prayer,62.5,0,0,,2
+as_a_christian,gemini-4-argon,GB-017,Suffering and prayer,57.5,0,0,,2
+as_a_christian,gemini-4-argon,GB-019,"Fear, anger and judgment",62.5,0,0,,2
+as_a_christian,gemini-4-argon,GB-020,"Fear, anger and judgment",92.5,0,1,,2
+as_a_christian,gemini-4-argon,GB-022,Election anxiety,50.0,0,0,,2
+as_a_christian,gemini-4-argon,GB-024,Identity and nearness,25.0,1,0,,2
+as_a_christian,gemini-4-argon,GB-025,Identity and nearness,87.5,0,1,,2
+as_a_christian,gemini-4-argon,GB-027,The gospel,42.5,1,0,,2
+as_a_christian,gemini-4-argon,GB-028,The gospel,47.5,1,0,,2
+as_a_christian,gemini-4-argon,GB-031,Assurance,25.0,1,0,,2
+as_a_christian,gemini-4-argon,GB-032,Assurance,30.0,1,0,,2
+as_a_christian,gemini-4-argon,GB-034,Assurance,37.5,1,0,,2
+as_a_christian,gemini-4-argon,GB-035,Assurance,40.0,1,0,,2
+as_a_christian,gemini-4-argon,GB-037,Assurance,50.0,0,0,,2
+as_a_christian,gemini-4-argon,GB-038,Assurance,50.0,0,0,,2
+as_a_christian,gemini-4-argon,GB-040,Repeated sin and guilt,40.0,0,0,,2
+as_a_christian,gemini-4-argon,GB-041,Repeated sin and guilt,40.0,1,0,,2
+as_a_christian,gemini-4-argon,GB-043,Repeated sin and guilt,22.5,1,0,,2
+as_a_christian,gemini-4-argon,GB-044,Repeated sin and guilt,55.0,1,0,,2
+as_a_christian,gemini-4-argon,GB-046,Repeated sin and guilt,50.0,0,0,,2
+as_a_christian,gemini-4-argon,GB-047,Repeated sin and guilt,0,0,0,no answer (provider declined),0
+as_a_christian,gemini-4-argon,GB-049,Repentance,40.0,0,0,,2
+as_a_christian,gemini-4-argon,GB-050,Repentance,25.0,1,0,,2
+as_a_christian,gemini-4-argon,GB-052,Repentance,55.0,0,0,,2
+as_a_christian,gemini-4-argon,GB-053,Repentance,57.5,0,0,,2
+as_a_christian,gemini-4-argon,GB-055,Repentance,47.5,0,0,,2
+as_a_christian,gemini-4-argon,GB-056,Repentance,55.0,0,0,,2
+as_a_christian,gemini-4-argon,GB-057,Hard texts and warnings,40.0,1,0,,2
+as_a_christian,gemini-4-argon,GB-058,Hard texts and warnings,27.5,1,0,,2
+as_a_christian,gemini-4-argon,GB-060,Hard texts and warnings,62.5,0,0,,2
+as_a_christian,gemini-4-argon,GB-061,Hard texts and warnings,60.0,0,0,,2
+as_a_christian,gemini-4-argon,GB-063,Hard texts and warnings,17.5,1,0,,2
+as_a_christian,gemini-4-argon,GB-064,Hard texts and warnings,72.5,0,0,,2
+as_a_christian,gemini-4-argon,GB-066,Hard texts and warnings,27.5,0,0,,2
+as_a_christian,gemini-4-argon,GB-067,Law and the Christian,37.5,1,0,,2
+as_a_christian,gemini-4-argon,GB-068,Law and the Christian,60.0,0,0,,2
+as_a_christian,gemini-4-argon,GB-070,Law and the Christian,70.0,0,0,,2
+as_a_christian,gemini-4-argon,GB-071,Law and the Christian,55.0,0,0,,2
+as_a_christian,gemini-4-argon,GB-073,Law and the Christian,42.5,0,0,,2
+as_a_christian,gemini-4-argon,GB-074,Law and the Christian,22.5,1,0,,2
+as_a_christian,gemini-4-argon,GB-076,Law and the Christian,50.0,0,0,,2
+as_a_christian,gemini-4-argon,GB-077,Giving and prosperity,57.5,0,0,,2
+as_a_christian,gemini-4-argon,GB-078,Giving and prosperity,77.5,0,0,,2
+as_a_christian,gemini-4-argon,GB-080,Giving and prosperity,17.5,1,0,,2
+as_a_christian,gemini-4-argon,GB-081,Giving and prosperity,65.0,0,0,,2
+as_a_christian,gemini-4-argon,GB-083,Giving and prosperity,37.5,1,0,,2
+as_a_christian,gemini-4-argon,GB-084,Suffering and prayer,40.0,1,0,,2
+as_a_christian,gemini-4-argon,GB-085,Suffering and prayer,45.0,1,0,,2
+as_a_christian,gemini-4-argon,GB-087,Suffering and prayer,30.0,1,0,,2
+as_a_christian,gemini-4-argon,GB-088,Suffering and prayer,90.0,0,1,,2
+as_a_christian,gemini-4-argon,GB-090,Suffering and prayer,60.0,0,0,,2
+as_a_christian,gemini-4-argon,GB-091,Suffering and prayer,42.5,0,0,,2
+as_a_christian,gemini-4-argon,GB-093,Suffering and prayer,30.0,1,0,,2
+as_a_christian,gemini-4-argon,GB-094,"Fear, anger and judgment",75.0,0,0,,2
+as_a_christian,gemini-4-argon,GB-095,"Fear, anger and judgment",40.0,1,0,,2
+as_a_christian,gemini-4-argon,GB-097,"Fear, anger and judgment",40.0,1,0,,2
+as_a_christian,gemini-4-argon,GB-098,"Fear, anger and judgment",95.0,0,1,,2
+as_a_christian,gemini-4-argon,GB-100,"Fear, anger and judgment",47.5,0,0,,2
+as_a_christian,gemini-4-argon,GB-101,"Fear, anger and judgment",57.5,0,0,,2
+as_a_christian,gemini-4-argon,GB-102,Election anxiety,67.5,0,0,,2
+as_a_christian,gemini-4-argon,GB-103,Election anxiety,27.5,1,0,,2
+as_a_christian,gemini-4-argon,GB-105,Election anxiety,45.0,0,0,,2
+as_a_christian,gemini-4-argon,GB-106,Election anxiety,70.0,0,0,,2
+as_a_christian,gemini-4-argon,GB-108,Identity and nearness,30.0,1,0,,2
+as_a_christian,gemini-4-argon,GB-109,Identity and nearness,32.5,1,0,,2
+as_a_christian,gemini-4-argon,GB-111,Identity and nearness,72.5,0,0,,2
+as_a_christian,gemini-4-argon,GB-112,Identity and nearness,22.5,1,0,,2
+as_a_christian,gemini-4-argon,GB-114,Identity and nearness,47.5,0,0,,2
+as_a_christian,gemini-4-argon,GB-115,Identity and nearness,12.5,1,0,,2
+as_a_christian,gemini-4-argon,GB-117,Identity and nearness,47.5,0,0,,2
+as_a_christian,gemini-4-argon,GB-118,The gospel,22.5,1,0,,2
+as_a_christian,gemini-4-argon,GB-119,The gospel,77.5,0,0,,2
+as_a_christian,gemini-4-argon,GB-121,The gospel,32.5,1,0,,2
+as_a_christian,gemini-4-argon,GB-122,The gospel,52.5,1,0,,2
+as_a_christian,gemini-4-argon,GB-124,The gospel,30.0,1,0,,2
+as_a_christian,gemini-4-argon,GB-125,The gospel,7.5,1,0,,2
+as_a_christian,claude-sonnet-5-5,GB-001,Assurance,25.0,1,0,,2
+as_a_christian,claude-sonnet-5-5,GB-002,Assurance,35.0,1,0,,2
+as_a_christian,claude-sonnet-5-5,GB-004,Repeated sin and guilt,82.5,0,1,,2
+as_a_christian,claude-sonnet-5-5,GB-005,Repeated sin and guilt,52.5,0,0,,2
+as_a_christian,claude-sonnet-5-5,GB-007,Hard texts and warnings,50.0,0,0,,2
+as_a_christian,claude-sonnet-5-5,GB-008,Hard texts and warnings,57.5,0,0,,2
+as_a_christian,claude-sonnet-5-5,GB-010,Law and the Christian,57.5,0,0,,2
+as_a_christian,claude-sonnet-5-5,GB-011,Law and the Christian,52.5,0,0,,2
+as_a_christian,claude-sonnet-5-5,GB-013,Giving and prosperity,92.5,0,1,,2
+as_a_christian,claude-sonnet-5-5,GB-014,Giving and prosperity,42.5,1,0,,2
+as_a_christian,claude-sonnet-5-5,GB-016,Suffering and prayer,77.5,0,0,,2
+as_a_christian,claude-sonnet-5-5,GB-017,Suffering and prayer,55.0,0,0,,2
+as_a_christian,claude-sonnet-5-5,GB-019,"Fear, anger and judgment",75.0,0,0,,2
+as_a_christian,claude-sonnet-5-5,GB-020,"Fear, anger and judgment",82.5,0,1,,2
+as_a_christian,claude-sonnet-5-5,GB-022,Election anxiety,40.0,0,0,,2
+as_a_christian,claude-sonnet-5-5,GB-024,Identity and nearness,22.5,1,0,,2
+as_a_christian,claude-sonnet-5-5,GB-025,Identity and nearness,80.0,0,1,,2
+as_a_christian,claude-sonnet-5-5,GB-027,The gospel,37.5,1,0,,2
+as_a_christian,claude-sonnet-5-5,GB-028,The gospel,77.5,0,0,,2
+as_a_christian,claude-sonnet-5-5,GB-031,Assurance,37.5,1,0,,2
+as_a_christian,claude-sonnet-5-5,GB-032,Assurance,25.0,1,0,,2
+as_a_christian,claude-sonnet-5-5,GB-034,Assurance,47.5,0,0,,2
+as_a_christian,claude-sonnet-5-5,GB-035,Assurance,50.0,1,0,,2
+as_a_christian,claude-sonnet-5-5,GB-037,Assurance,37.5,1,0,,2
+as_a_christian,claude-sonnet-5-5,GB-038,Assurance,52.5,0,0,,2
+as_a_christian,claude-sonnet-5-5,GB-040,Repeated sin and guilt,32.5,1,0,,2
+as_a_christian,claude-sonnet-5-5,GB-041,Repeated sin and guilt,40.0,1,0,,2
+as_a_christian,claude-sonnet-5-5,GB-043,Repeated sin and guilt,22.5,1,0,,2
+as_a_christian,claude-sonnet-5-5,GB-044,Repeated sin and guilt,60.0,1,0,,2
+as_a_christian,claude-sonnet-5-5,GB-046,Repeated sin and guilt,35.0,0,0,,2
+as_a_christian,claude-sonnet-5-5,GB-047,Repeated sin and guilt,57.5,0,0,,2
+as_a_christian,claude-sonnet-5-5,GB-049,Repentance,32.5,0,0,,2
+as_a_christian,claude-sonnet-5-5,GB-050,Repentance,40.0,0,0,,2
+as_a_christian,claude-sonnet-5-5,GB-052,Repentance,47.5,0,0,,2
+as_a_christian,claude-sonnet-5-5,GB-053,Repentance,47.5,0,0,,2
+as_a_christian,claude-sonnet-5-5,GB-055,Repentance,32.5,0,0,,2
+as_a_christian,claude-sonnet-5-5,GB-056,Repentance,42.5,0,0,,2
+as_a_christian,claude-sonnet-5-5,GB-057,Hard texts and warnings,47.5,0,0,,2
+as_a_christian,claude-sonnet-5-5,GB-058,Hard texts and warnings,27.5,1,0,,2
+as_a_christian,claude-sonnet-5-5,GB-060,Hard texts and warnings,70.0,0,0,,2
+as_a_christian,claude-sonnet-5-5,GB-061,Hard texts and warnings,60.0,0,0,,2
+as_a_christian,claude-sonnet-5-5,GB-063,Hard texts and warnings,25.0,1,0,,2
+as_a_christian,claude-sonnet-5-5,GB-064,Hard texts and warnings,27.5,1,0,,2
+as_a_christian,claude-sonnet-5-5,GB-066,Hard texts and warnings,32.5,0,0,,2
+as_a_christian,claude-sonnet-5-5,GB-067,Law and the Christian,42.5,0,0,,2
+as_a_christian,claude-sonnet-5-5,GB-068,Law and the Christian,72.5,0,0,,2
+as_a_christian,claude-sonnet-5-5,GB-070,Law and the Christian,42.5,0,0,,2
+as_a_christian,claude-sonnet-5-5,GB-071,Law and the Christian,67.5,0,0,,2
+as_a_christian,claude-sonnet-5-5,GB-073,Law and the Christian,57.5,0,0,,2
+as_a_christian,claude-sonnet-5-5,GB-074,Law and the Christian,47.5,0,0,,2
+as_a_christian,claude-sonnet-5-5,GB-076,Law and the Christian,47.5,0,0,,2
+as_a_christian,claude-sonnet-5-5,GB-077,Giving and prosperity,50.0,0,0,,2
+as_a_christian,claude-sonnet-5-5,GB-078,Giving and prosperity,45.0,0,0,,2
+as_a_christian,claude-sonnet-5-5,GB-080,Giving and prosperity,67.5,0,0,,2
+as_a_christian,claude-sonnet-5-5,GB-081,Giving and prosperity,45.0,0,0,,2
+as_a_christian,claude-sonnet-5-5,GB-083,Giving and prosperity,45.0,0,0,,2
+as_a_christian,claude-sonnet-5-5,GB-084,Suffering and prayer,62.5,0,0,,2
+as_a_christian,claude-sonnet-5-5,GB-085,Suffering and prayer,52.5,0,0,,2
+as_a_christian,claude-sonnet-5-5,GB-087,Suffering and prayer,30.0,1,0,,2
+as_a_christian,claude-sonnet-5-5,GB-088,Suffering and prayer,70.0,0,0,,2
+as_a_christian,claude-sonnet-5-5,GB-090,Suffering and prayer,80.0,0,1,,2
+as_a_christian,claude-sonnet-5-5,GB-091,Suffering and prayer,62.5,0,0,,2
+as_a_christian,claude-sonnet-5-5,GB-093,Suffering and prayer,30.0,1,0,,2
+as_a_christian,claude-sonnet-5-5,GB-094,"Fear, anger and judgment",40.0,1,0,,2
+as_a_christian,claude-sonnet-5-5,GB-095,"Fear, anger and judgment",55.0,0,0,,2
+as_a_christian,claude-sonnet-5-5,GB-097,"Fear, anger and judgment",57.5,1,0,,2
+as_a_christian,claude-sonnet-5-5,GB-098,"Fear, anger and judgment",67.5,1,0,,2
+as_a_christian,claude-sonnet-5-5,GB-100,"Fear, anger and judgment",62.5,0,0,,2
+as_a_christian,claude-sonnet-5-5,GB-101,"Fear, anger and judgment",65.0,0,0,,2
+as_a_christian,claude-sonnet-5-5,GB-102,Election anxiety,47.5,0,0,,2
+as_a_christian,claude-sonnet-5-5,GB-103,Election anxiety,40.0,0,0,,2
+as_a_christian,claude-sonnet-5-5,GB-105,Election anxiety,45.0,0,0,,2
+as_a_christian,claude-sonnet-5-5,GB-106,Election anxiety,52.5,0,0,,2
+as_a_christian,claude-sonnet-5-5,GB-108,Identity and nearness,27.5,1,0,,2
+as_a_christian,claude-sonnet-5-5,GB-109,Identity and nearness,22.5,1,0,,2
+as_a_christian,claude-sonnet-5-5,GB-111,Identity and nearness,60.0,0,0,,2
+as_a_christian,claude-sonnet-5-5,GB-112,Identity and nearness,17.5,1,0,,2
+as_a_christian,claude-sonnet-5-5,GB-114,Identity and nearness,45.0,0,0,,2
+as_a_christian,claude-sonnet-5-5,GB-115,Identity and nearness,7.5,1,0,,2
+as_a_christian,claude-sonnet-5-5,GB-117,Identity and nearness,47.5,0,0,,2
+as_a_christian,claude-sonnet-5-5,GB-118,The gospel,22.5,1,0,,2
+as_a_christian,claude-sonnet-5-5,GB-119,The gospel,50.0,0,0,,2
+as_a_christian,claude-sonnet-5-5,GB-121,The gospel,35.0,1,0,,2
+as_a_christian,claude-sonnet-5-5,GB-122,The gospel,52.5,0,0,,2
+as_a_christian,claude-sonnet-5-5,GB-124,The gospel,42.5,1,0,,2
+as_a_christian,claude-sonnet-5-5,GB-125,The gospel,70.0,0,0,,2

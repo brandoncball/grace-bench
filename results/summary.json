@@ -1,0 +1,542 @@
+[
+ {
+  "condition": "as_asked",
+  "model": "Grok 4.7",
+  "model_id": "grok-4.7",
+  "reference_only": false,
+  "judged_by": [
+   "judge-astra",
+   "judge-argon"
+  ],
+  "items": 125,
+  "grace_clear_rate": 11.2,
+  "grace_clear_95_lo": 6.4,
+  "grace_clear_95_hi": 16.8,
+  "grace_score": 50.5,
+  "non_answers": 0,
+  "dimensions": {
+   "D1": 1.12,
+   "D2": 1.79,
+   "D3": 2.92,
+   "D4": 1.82,
+   "D5": 2.49
+  },
+  "by_category": {
+   "Assurance": 38.3,
+   "Repeated sin and guilt": 39.0,
+   "Hard texts and warnings": 45.6,
+   "Law and the Christian": 62.7,
+   "Giving and prosperity": 58.8,
+   "Suffering and prayer": 47.9,
+   "Fear, anger and judgment": 53.9,
+   "Election anxiety": 45.6,
+   "Identity and nearness": 62.9,
+   "The gospel": 53.5,
+   "Repentance": 43.8
+  }
+ },
+ {
+  "condition": "as_asked",
+  "model": "GPT-6 Astra",
+  "model_id": "gpt-6-astra",
+  "reference_only": false,
+  "judged_by": [
+   "judge-opus",
+   "judge-argon"
+  ],
+  "items": 125,
+  "grace_clear_rate": 4.8,
+  "grace_clear_95_lo": 1.6,
+  "grace_clear_95_hi": 8.8,
+  "grace_score": 48.4,
+  "non_answers": 0,
+  "dimensions": {
+   "D1": 0.84,
+   "D2": 1.65,
+   "D3": 2.9,
+   "D4": 1.68,
+   "D5": 2.62
+  },
+  "by_category": {
+   "Assurance": 37.3,
+   "Repeated sin and guilt": 41.0,
+   "Hard texts and warnings": 43.5,
+   "Law and the Christian": 45.8,
+   "Giving and prosperity": 58.5,
+   "Suffering and prayer": 58.3,
+   "Fear, anger and judgment": 56.4,
+   "Election anxiety": 45.3,
+   "Identity and nearness": 54.8,
+   "The gospel": 49.2,
+   "Repentance": 40.9
+  }
+ },
+ {
+  "condition": "as_asked",
+  "model": "Claude Fable 5.1",
+  "model_id": "claude-fable-5-1",
+  "reference_only": false,
+  "judged_by": [
+   "judge-astra",
+   "judge-argon"
+  ],
+  "items": 125,
+  "grace_clear_rate": 4.0,
+  "grace_clear_95_lo": 0.8,
+  "grace_clear_95_hi": 8.0,
+  "grace_score": 47.9,
+  "non_answers": 0,
+  "dimensions": {
+   "D1": 0.98,
+   "D2": 1.65,
+   "D3": 2.67,
+   "D4": 1.66,
+   "D5": 2.64
+  },
+  "by_category": {
+   "Assurance": 33.5,
+   "Repeated sin and guilt": 45.4,
+   "Hard texts and warnings": 51.5,
+   "Law and the Christian": 49.0,
+   "Giving and prosperity": 66.2,
+   "Suffering and prayer": 57.5,
+   "Fear, anger and judgment": 49.8,
+   "Election anxiety": 41.2,
+   "Identity and nearness": 48.7,
+   "The gospel": 42.9,
+   "Repentance": 37.5
+  }
+ },
+ {
+  "condition": "as_asked",
+  "model": "Claude Opus 5.5",
+  "model_id": "claude-opus-5-5",
+  "reference_only": false,
+  "judged_by": [
+   "judge-astra",
+   "judge-argon"
+  ],
+  "items": 125,
+  "grace_clear_rate": 4.0,
+  "grace_clear_95_lo": 0.8,
+  "grace_clear_95_hi": 8.0,
+  "grace_score": 47.2,
+  "non_answers": 0,
+  "dimensions": {
+   "D1": 0.91,
+   "D2": 1.53,
+   "D3": 2.75,
+   "D4": 1.64,
+   "D5": 2.62
+  },
+  "by_category": {
+   "Assurance": 35.0,
+   "Repeated sin and guilt": 47.7,
+   "Hard texts and warnings": 53.3,
+   "Law and the Christian": 51.2,
+   "Giving and prosperity": 47.2,
+   "Suffering and prayer": 54.6,
+   "Fear, anger and judgment": 56.4,
+   "Election anxiety": 41.6,
+   "Identity and nearness": 49.0,
+   "The gospel": 41.7,
+   "Repentance": 35.0
+  }
+ },
+ {
+  "condition": "as_asked",
+  "model": "Gemini 4 Argon",
+  "model_id": "gemini-4-argon",
+  "reference_only": false,
+  "judged_by": [
+   "judge-opus",
+   "judge-astra"
+  ],
+  "items": 125,
+  "grace_clear_rate": 4.0,
+  "grace_clear_95_lo": 0.8,
+  "grace_clear_95_hi": 8.0,
+  "grace_score": 45.0,
+  "non_answers": 0,
+  "dimensions": {
+   "D1": 1.13,
+   "D2": 1.75,
+   "D3": 2.21,
+   "D4": 1.5,
+   "D5": 2.46
+  },
+  "by_category": {
+   "Assurance": 35.6,
+   "Repeated sin and guilt": 42.7,
+   "Hard texts and warnings": 46.2,
+   "Law and the Christian": 46.7,
+   "Giving and prosperity": 59.0,
+   "Suffering and prayer": 51.3,
+   "Fear, anger and judgment": 48.6,
+   "Election anxiety": 35.0,
+   "Identity and nearness": 47.5,
+   "The gospel": 41.0,
+   "Repentance": 37.2
+  }
+ },
+ {
+  "condition": "as_asked",
+  "model": "GPT-6.1 Sol",
+  "model_id": "gpt-6.1-sol",
+  "reference_only": false,
+  "judged_by": [
+   "judge-opus",
+   "judge-argon"
+  ],
+  "items": 125,
+  "grace_clear_rate": 3.2,
+  "grace_clear_95_lo": 0.8,
+  "grace_clear_95_hi": 6.4,
+  "grace_score": 49.4,
+  "non_answers": 0,
+  "dimensions": {
+   "D1": 0.9,
+   "D2": 1.73,
+   "D3": 2.9,
+   "D4": 1.74,
+   "D5": 2.63
+  },
+  "by_category": {
+   "Assurance": 36.9,
+   "Repeated sin and guilt": 41.7,
+   "Hard texts and warnings": 44.6,
+   "Law and the Christian": 47.7,
+   "Giving and prosperity": 55.8,
+   "Suffering and prayer": 64.8,
+   "Fear, anger and judgment": 53.2,
+   "Election anxiety": 47.2,
+   "Identity and nearness": 54.8,
+   "The gospel": 53.3,
+   "Repentance": 40.3
+  }
+ },
+ {
+  "condition": "as_asked",
+  "model": "Claude Sonnet 5.5",
+  "model_id": "claude-sonnet-5-5",
+  "reference_only": false,
+  "judged_by": [
+   "judge-astra",
+   "judge-argon"
+  ],
+  "items": 125,
+  "grace_clear_rate": 1.6,
+  "grace_clear_95_lo": 0.0,
+  "grace_clear_95_hi": 4.0,
+  "grace_score": 42.6,
+  "non_answers": 0,
+  "dimensions": {
+   "D1": 0.68,
+   "D2": 1.35,
+   "D3": 2.68,
+   "D4": 1.41,
+   "D5": 2.43
+  },
+  "by_category": {
+   "Assurance": 31.5,
+   "Repeated sin and guilt": 36.7,
+   "Hard texts and warnings": 42.5,
+   "Law and the Christian": 47.3,
+   "Giving and prosperity": 48.8,
+   "Suffering and prayer": 52.3,
+   "Fear, anger and judgment": 45.5,
+   "Election anxiety": 39.4,
+   "Identity and nearness": 45.2,
+   "The gospel": 40.4,
+   "Repentance": 35.0
+  }
+ },
+ {
+  "condition": "as_asked",
+  "model": "Ask Grace (reference, unranked)",
+  "model_id": "ask-grace",
+  "reference_only": true,
+  "judged_by": [
+   "judge-opus",
+   "judge-argon"
+  ],
+  "items": 125,
+  "grace_clear_rate": 98.4,
+  "grace_clear_95_lo": 96.0,
+  "grace_clear_95_hi": 100.0,
+  "grace_score": 94.0,
+  "non_answers": 0,
+  "dimensions": {
+   "D1": 3.72,
+   "D2": 3.77,
+   "D3": 3.98,
+   "D4": 3.75,
+   "D5": 3.57
+  },
+  "by_category": {
+   "Assurance": 95.2,
+   "Repeated sin and guilt": 97.7,
+   "Hard texts and warnings": 90.0,
+   "Law and the Christian": 94.0,
+   "Giving and prosperity": 92.5,
+   "Suffering and prayer": 93.7,
+   "Fear, anger and judgment": 91.8,
+   "Election anxiety": 87.8,
+   "Identity and nearness": 97.7,
+   "The gospel": 96.0,
+   "Repentance": 95.3
+  }
+ },
+ {
+  "condition": "as_a_christian",
+  "model": "Grok 4.7",
+  "model_id": "grok-4.7",
+  "reference_only": false,
+  "judged_by": [
+   "judge-astra",
+   "judge-argon"
+  ],
+  "items": 125,
+  "grace_clear_rate": 19.2,
+  "grace_clear_95_lo": 12.8,
+  "grace_clear_95_hi": 26.4,
+  "grace_score": 53.6,
+  "non_answers": 0,
+  "dimensions": {
+   "D1": 1.77,
+   "D2": 2.04,
+   "D3": 2.55,
+   "D4": 1.93,
+   "D5": 2.49
+  },
+  "by_category": {
+   "Assurance": 36.7,
+   "Repeated sin and guilt": 49.8,
+   "Hard texts and warnings": 45.0,
+   "Law and the Christian": 64.0,
+   "Giving and prosperity": 63.0,
+   "Suffering and prayer": 57.1,
+   "Fear, anger and judgment": 66.6,
+   "Election anxiety": 47.5,
+   "Identity and nearness": 52.7,
+   "The gospel": 56.9,
+   "Repentance": 48.4
+  }
+ },
+ {
+  "condition": "as_a_christian",
+  "model": "GPT-6 Astra",
+  "model_id": "gpt-6-astra",
+  "reference_only": false,
+  "judged_by": [
+   "judge-opus",
+   "judge-argon"
+  ],
+  "items": 125,
+  "grace_clear_rate": 18.4,
+  "grace_clear_95_lo": 12.0,
+  "grace_clear_95_hi": 25.6,
+  "grace_score": 58.8,
+  "non_answers": 0,
+  "dimensions": {
+   "D1": 1.95,
+   "D2": 2.26,
+   "D3": 2.76,
+   "D4": 2.18,
+   "D5": 2.66
+  },
+  "by_category": {
+   "Assurance": 40.2,
+   "Repeated sin and guilt": 53.5,
+   "Hard texts and warnings": 51.7,
+   "Law and the Christian": 58.3,
+   "Giving and prosperity": 63.2,
+   "Suffering and prayer": 72.7,
+   "Fear, anger and judgment": 68.0,
+   "Election anxiety": 64.1,
+   "Identity and nearness": 62.7,
+   "The gospel": 57.1,
+   "Repentance": 57.8
+  }
+ },
+ {
+  "condition": "as_a_christian",
+  "model": "Claude Fable 5.1",
+  "model_id": "claude-fable-5-1",
+  "reference_only": false,
+  "judged_by": [
+   "judge-astra",
+   "judge-argon"
+  ],
+  "items": 125,
+  "grace_clear_rate": 16.8,
+  "grace_clear_95_lo": 10.4,
+  "grace_clear_95_hi": 23.2,
+  "grace_score": 53.1,
+  "non_answers": 0,
+  "dimensions": {
+   "D1": 1.88,
+   "D2": 2.07,
+   "D3": 2.38,
+   "D4": 1.74,
+   "D5": 2.63
+  },
+  "by_category": {
+   "Assurance": 39.4,
+   "Repeated sin and guilt": 51.7,
+   "Hard texts and warnings": 45.8,
+   "Law and the Christian": 57.3,
+   "Giving and prosperity": 64.8,
+   "Suffering and prayer": 61.9,
+   "Fear, anger and judgment": 58.4,
+   "Election anxiety": 43.4,
+   "Identity and nearness": 60.2,
+   "The gospel": 53.3,
+   "Repentance": 41.9
+  }
+ },
+ {
+  "condition": "as_a_christian",
+  "model": "Claude Opus 5.5",
+  "model_id": "claude-opus-5-5",
+  "reference_only": false,
+  "judged_by": [
+   "judge-astra",
+   "judge-argon"
+  ],
+  "items": 125,
+  "grace_clear_rate": 14.4,
+  "grace_clear_95_lo": 8.8,
+  "grace_clear_95_hi": 20.8,
+  "grace_score": 52.6,
+  "non_answers": 0,
+  "dimensions": {
+   "D1": 1.7,
+   "D2": 1.99,
+   "D3": 2.45,
+   "D4": 1.82,
+   "D5": 2.58
+  },
+  "by_category": {
+   "Assurance": 38.3,
+   "Repeated sin and guilt": 54.4,
+   "Hard texts and warnings": 50.0,
+   "Law and the Christian": 54.4,
+   "Giving and prosperity": 45.8,
+   "Suffering and prayer": 61.2,
+   "Fear, anger and judgment": 68.9,
+   "Election anxiety": 44.4,
+   "Identity and nearness": 54.4,
+   "The gospel": 54.8,
+   "Repentance": 46.9
+  }
+ },
+ {
+  "condition": "as_a_christian",
+  "model": "GPT-6.1 Sol",
+  "model_id": "gpt-6.1-sol",
+  "reference_only": false,
+  "judged_by": [
+   "judge-opus",
+   "judge-argon"
+  ],
+  "items": 125,
+  "grace_clear_rate": 12.8,
+  "grace_clear_95_lo": 7.2,
+  "grace_clear_95_hi": 19.2,
+  "grace_score": 56.0,
+  "non_answers": 0,
+  "dimensions": {
+   "D1": 1.89,
+   "D2": 2.08,
+   "D3": 2.64,
+   "D4": 2.03,
+   "D5": 2.62
+  },
+  "by_category": {
+   "Assurance": 38.3,
+   "Repeated sin and guilt": 47.7,
+   "Hard texts and warnings": 50.6,
+   "Law and the Christian": 59.0,
+   "Giving and prosperity": 62.8,
+   "Suffering and prayer": 70.4,
+   "Fear, anger and judgment": 61.1,
+   "Election anxiety": 60.0,
+   "Identity and nearness": 58.8,
+   "The gospel": 56.7,
+   "Repentance": 50.9
+  }
+ },
+ {
+  "condition": "as_a_christian",
+  "model": "Gemini 4 Argon",
+  "model_id": "gemini-4-argon",
+  "reference_only": false,
+  "judged_by": [
+   "judge-opus",
+   "judge-astra"
+  ],
+  "items": 125,
+  "grace_clear_rate": 6.4,
+  "grace_clear_95_lo": 2.4,
+  "grace_clear_95_hi": 11.2,
+  "grace_score": 48.1,
+  "non_answers": 2,
+  "dimensions": {
+   "D1": 1.88,
+   "D2": 2.0,
+   "D3": 2.02,
+   "D4": 1.51,
+   "D5": 2.46
+  },
+  "by_category": {
+   "Assurance": 36.0,
+   "Repeated sin and guilt": 45.8,
+   "Hard texts and warnings": 49.0,
+   "Law and the Christian": 51.2,
+   "Giving and prosperity": 61.0,
+   "Suffering and prayer": 45.4,
+   "Fear, anger and judgment": 60.9,
+   "Election anxiety": 52.2,
+   "Identity and nearness": 50.0,
+   "The gospel": 45.0,
+   "Repentance": 43.1
+  }
+ },
+ {
+  "condition": "as_a_christian",
+  "model": "Claude Sonnet 5.5",
+  "model_id": "claude-sonnet-5-5",
+  "reference_only": false,
+  "judged_by": [
+   "judge-astra",
+   "judge-argon"
+  ],
+  "items": 125,
+  "grace_clear_rate": 5.6,
+  "grace_clear_95_lo": 2.4,
+  "grace_clear_95_hi": 9.6,
+  "grace_score": 48.7,
+  "non_answers": 0,
+  "dimensions": {
+   "D1": 1.45,
+   "D2": 1.78,
+   "D3": 2.44,
+   "D4": 1.72,
+   "D5": 2.46
+  },
+  "by_category": {
+   "Assurance": 36.2,
+   "Repeated sin and guilt": 47.9,
+   "Hard texts and warnings": 47.5,
+   "Law and the Christian": 53.7,
+   "Giving and prosperity": 54.0,
+   "Suffering and prayer": 53.8,
+   "Fear, anger and judgment": 60.7,
+   "Election anxiety": 40.3,
+   "Identity and nearness": 46.0,
+   "The gospel": 50.0,
+   "Repentance": 42.5
+  }
+ }
+]

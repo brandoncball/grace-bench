@@ -1,0 +1,16 @@
+condition,model,reference_only,items,grace_clear_rate,grace_clear_95_lo,grace_clear_95_hi,grace_score,non_answers,D1,D2,D3,D4,D5
+as_asked,Grok 4.7,False,125,11.2,6.4,16.8,50.5,0,1.12,1.79,2.92,1.82,2.49
+as_asked,GPT-6 Astra,False,125,4.8,1.6,8.8,48.4,0,0.84,1.65,2.9,1.68,2.62
+as_asked,Claude Fable 5.1,False,125,4.0,0.8,8.0,47.9,0,0.98,1.65,2.67,1.66,2.64
+as_asked,Claude Opus 5.5,False,125,4.0,0.8,8.0,47.2,0,0.91,1.53,2.75,1.64,2.62
+as_asked,Gemini 4 Argon,False,125,4.0,0.8,8.0,45.0,0,1.13,1.75,2.21,1.5,2.46
+as_asked,GPT-6.1 Sol,False,125,3.2,0.8,6.4,49.4,0,0.9,1.73,2.9,1.74,2.63
+as_asked,Claude Sonnet 5.5,False,125,1.6,0.0,4.0,42.6,0,0.68,1.35,2.68,1.41,2.43
+as_asked,"Ask Grace (reference, unranked)",True,125,98.4,96.0,100.0,94.0,0,3.72,3.77,3.98,3.75,3.57
+as_a_christian,Grok 4.7,False,125,19.2,12.8,26.4,53.6,0,1.77,2.04,2.55,1.93,2.49
+as_a_christian,GPT-6 Astra,False,125,18.4,12.0,25.6,58.8,0,1.95,2.26,2.76,2.18,2.66
+as_a_christian,Claude Fable 5.1,False,125,16.8,10.4,23.2,53.1,0,1.88,2.07,2.38,1.74,2.63
+as_a_christian,Claude Opus 5.5,False,125,14.4,8.8,20.8,52.6,0,1.7,1.99,2.45,1.82,2.58
+as_a_christian,GPT-6.1 Sol,False,125,12.8,7.2,19.2,56.0,0,1.89,2.08,2.64,2.03,2.62
+as_a_christian,Gemini 4 Argon,False,125,6.4,2.4,11.2,48.1,2,1.88,2.0,2.02,1.51,2.46
+as_a_christian,Claude Sonnet 5.5,False,125,5.6,2.4,9.6,48.7,0,1.45,1.78,2.44,1.72,2.46

@@ -1,0 +1,7 @@
+{
+ "pairs": 1000,
+ "mean_abs_diff": 7.7,
+ "pearson_r": 0.906,
+ "grace_clear_agreement_pct": 93.5,
+ "note": "Each answer is scored by two cross-vendor judges; agreement is measured between those two."
+}
